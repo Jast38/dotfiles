@@ -1,0 +1,174 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.tex
+> git show :Blatt5/Blatt5/tex/problem3.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.tex
+> git cat-file -s 0738f4bb0cf6175e90b19a2681cdc98bb10ebeff
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.tex
+> git cat-file -s 0738f4bb0cf6175e90b19a2681cdc98bb10ebeff
+> git show :Blatt5/Blatt5/tex/problem3.tex
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Blatt5/Blatt5/tex/problem1.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+> git cat-file -s ff432929af031698df397d1f53c2a1d121c8251c
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+> git cat-file -s ff432929af031698df397d1f53c2a1d121c8251c
+> git show :Blatt5/Blatt5/tex/problem1.tex
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.synctex.gz /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/handout/src/main/java/de/ipvs/RNI/uebung5/solution/Trie.java /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/handout/.gradle/4.7/fileChanges/last-build.bin /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/handout/.gradle/4.7/fileHashes/fileHashes.bin /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/handout/.gradle/4.7/fileHashes/fileHashes.lock /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/handout/.gradle/vcsWorkingDirs/gc.properties /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/handout/.idea/.gitignore /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/handout/.idea/checkstyle-idea.xml /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/handout/.idea/compiler.xml /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/handout/.idea/gradle.xml /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/handout/.idea/jarRepositories.xml /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/handout/.idea/misc.xml /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/handout/.idea/modules/handout.main.iml /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/handout/.idea/vcs.xml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+> git cat-file -s fa52f830f140cf5fbf6b6add6605bce9deeb2030
+> git show :Blatt5/Blatt5/tex/problem1.tex
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+> git cat-file -s fa52f830f140cf5fbf6b6add6605bce9deeb2030
+> git show :Blatt5/Blatt5/tex/problem1.tex
+> git pull --tags origin master
+From https://github.com/jast38/ss20rn1
+ * branch            master     -> FETCH_HEAD
+> git push origin master:master
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+> git cat-file -s fa52f830f140cf5fbf6b6add6605bce9deeb2030
+> git show :Blatt5/Blatt5/tex/problem1.tex
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Jast38/ss20rn1.git        
+To https://github.com/jast38/ss20rn1.git
+   c20121a..0013558  master -> master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+> git cat-file -s fa52f830f140cf5fbf6b6add6605bce9deeb2030
+> git show :Blatt5/Blatt5/tex/problem1.tex

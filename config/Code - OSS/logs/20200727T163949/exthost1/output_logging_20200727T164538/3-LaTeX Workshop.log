@@ -1,0 +1,81 @@
+[16:45:38] Initializing LaTeX Workshop.
+[16:45:38] Creating PDF file watcher.
+[16:45:38] Creating LaTeX Workshop http and websocket server.
+[16:45:38] LaTeX Workshop initialized.
+[16:45:38] Found root file from active editor: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex
+[16:45:38] Root file changed: from undefined to /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex
+[16:45:38] Start to find all dependencies.
+[16:45:38] Instantiating a new file watcher for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex
+[16:45:38] Creating Bib file watcher.
+[16:45:38] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex
+[16:45:38] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/NormEinheitskugel.tex
+[16:45:38] Parse fls file.
+[16:45:38] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/NormEinheitskugel.fls
+[16:45:38] Parse fls file.
+[16:45:38] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.fls
+[16:45:38] Server created on 127.0.0.1:33833
+[16:45:38] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex
+[16:45:38] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/NormEinheitskugel.tex
+[16:45:38] Snippet data loaded.
+[16:45:38] LaTeX Workshop version: 8.11.1
+[16:45:39] Handle data type: open
+[16:45:39] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.pdf
+[16:45:39] Handle data type: request_params
+[16:45:39] Handle data type: loaded
+[16:45:48] File watcher - file deleted: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/NormEinheitskugel.tex
+[16:45:48] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex
+[16:45:48] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex
+[16:45:48] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/ZahlenUndSo.tex
+[16:45:48] Parse fls file.
+[16:45:48] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/ZahlenUndSo.fls
+[16:45:48] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/MatrixUndSo.tex
+[16:45:48] Parse fls file.
+[16:45:48] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/MatrixUndSo.fls
+[16:45:48] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/InterpolationUndSo.tex
+[16:45:48] Parse fls file.
+[16:45:48] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/InterpolationUndSo.fls
+[16:45:48] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/ExtrapolationUndSo.tex
+[16:45:48] Parse fls file.
+[16:45:48] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/ExtrapolationUndSo.fls
+[16:45:48] Parse fls file.
+[16:45:48] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.fls
+[16:45:48] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex
+[16:45:48] BUILD command invoked.
+[16:45:48] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex
+[16:45:48] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex
+[16:45:48] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel
+[16:45:48] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel
+[16:45:48] LaTeX build process spawned. PID: 638474.
+[16:45:48] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/ZahlenUndSo.tex
+[16:45:48] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/MatrixUndSo.tex
+[16:45:48] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/InterpolationUndSo.tex
+[16:45:48] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/ExtrapolationUndSo.tex
+[16:45:50] LaTeX log parsed with 0 messages.
+[16:45:50] Recipe of length 1 finished. PID: 638474.
+[16:45:50] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex.
+[16:45:50] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.pdf
+[16:45:50] Parse fls file.
+[16:45:50] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.fls
+[16:45:50] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.aux
+[16:45:50] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/ZahlenUndSo.tex.aux
+[16:45:50] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/MatrixUndSo.tex.aux
+[16:45:50] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/InterpolationUndSo.tex.aux
+[16:45:50] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/ExtrapolationUndSo.tex.aux
+[16:45:50] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.pdf
+[16:45:50] Handle data type: loaded
+[16:45:50] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/mystyle.sty
+[16:46:01] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex.
+[16:46:01] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex.
+[16:46:02] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex.
+[16:46:02] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex.
+[16:46:04] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex.
+[16:46:04] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex.
+[16:46:04] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex.
+[16:46:04] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex.
+[16:46:13] CLEAN command invoked.
+[16:46:13] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex.
+[16:46:13] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.aux
+[16:46:13] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.toc
+[16:46:13] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.fls
+[16:46:13] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.log
+[16:46:13] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.fdb_latexmk

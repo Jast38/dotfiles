@@ -1,0 +1,60 @@
+[2020-07-03 18:04:24.374] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:04:28.015] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:04:31.516] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:04:33.918] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:04:37.977] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:04:49.725] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:04:50.840] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:04:56.312] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:05:28.647] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:22:44.514] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)

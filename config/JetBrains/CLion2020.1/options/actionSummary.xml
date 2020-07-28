@@ -1,0 +1,102 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Delete">
+        <ActionSummary times="2" last="1591258945889" />
+      </entry>
+      <entry key="$SelectAll">
+        <ActionSummary times="2" last="1591258793743" />
+      </entry>
+      <entry key="$Undo">
+        <ActionSummary times="20" last="1591260147157" />
+      </entry>
+      <entry key="CIDR.Lang.Cpp.NewClass">
+        <ActionSummary times="1" last="1589111605304" />
+      </entry>
+      <entry key="CPP.CreateCMakeProject">
+        <ActionSummary times="2" last="1591258920676" />
+      </entry>
+      <entry key="CPP.NewCppFile">
+        <ActionSummary times="1" last="1589111587387" />
+      </entry>
+      <entry key="ChooseRunConfiguration">
+        <ActionSummary times="1" last="1591258871715" />
+      </entry>
+      <entry key="CodeCompletion">
+        <ActionSummary times="1" last="1591261228122" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="153" last="1591261269495" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="12" last="1591261234228" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="1" last="1589111640344" />
+      </entry>
+      <entry key="EditorCut">
+        <ActionSummary times="14" last="1591260972065" />
+      </entry>
+      <entry key="EditorDelete">
+        <ActionSummary times="11" last="1591259407138" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="27" last="1591261257034" />
+      </entry>
+      <entry key="EditorEscape">
+        <ActionSummary times="1" last="1591261275460" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="7" last="1591261203421" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="14" last="1591260974632" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="1" last="1591260610102" />
+      </entry>
+      <entry key="EditorTab">
+        <ActionSummary times="2" last="1591260815296" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="1" last="1591259786845" />
+      </entry>
+      <entry key="FindNext">
+        <ActionSummary times="1" last="1591261270867" />
+      </entry>
+      <entry key="NewFile">
+        <ActionSummary times="1" last="1589111629711" />
+      </entry>
+      <entry key="OpenFile">
+        <ActionSummary times="3" last="1591258951385" />
+      </entry>
+      <entry key="QuickImplementations">
+        <ActionSummary times="1" last="1591259294986" />
+      </entry>
+      <entry key="ReformatCode">
+        <ActionSummary times="9" last="1591261277294" />
+      </entry>
+      <entry key="Run">
+        <ActionSummary times="3" last="1591258973069" />
+      </entry>
+      <entry key="SaveAll">
+        <ActionSummary times="58" last="1591261272871" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="3" last="1591258813031" />
+      </entry>
+      <entry key="Terminal.OpenInTerminal">
+        <ActionSummary times="1" last="1591259002723" />
+      </entry>
+      <entry key="WelcomeScreen.OpenProject">
+        <ActionSummary times="1" last="1589109836105" />
+      </entry>
+      <entry key="com.intellij.codeInsight.daemon.NavigateAction">
+        <ActionSummary times="1" last="1591259084583" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+        <ActionSummary times="6" last="1591259058040" />
+      </entry>
+    </data>
+  </component>
+</application>

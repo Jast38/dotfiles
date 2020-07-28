@@ -1,0 +1,72 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex
+> git show --textconv :Spickzettel/Spickzettel.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex
+> git cat-file -s 110a0b14e535bd9139d47c818825258b78eb5c3e
+> git check-ignore -v -z --stdin
+> git fetch
+> git status -z -u
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git cat-file -s 4324ec9a3e83537bbc3664c12d4fa3c812041148
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git show --textconv :Spickzettel/Spickzettel.tex
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/Spickzettel.tex
+> git cat-file -s 4324ec9a3e83537bbc3664c12d4fa3c812041148
+> git show --textconv :Spickzettel/Spickzettel.tex
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :Spickzettel/tex/ExtrapolationUndSo.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/ExtrapolationUndSo.tex
+> git cat-file -s b3f7ff02e2b421132e0773e580a26a012fd7e84e
+> git show --textconv :Spickzettel/tex/InterpolationUndSo.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/InterpolationUndSo.tex
+> git cat-file -s 33fdad90cfb0500a747ebb217cbdce1c43cd4d81
+> git show --textconv :Spickzettel/tex/ZahlenUndSo.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/ZahlenUndSo.tex
+> git cat-file -s 09c9836a3654b0d0e6c0ccc06ed5787f484b6a79
+> git show --textconv :Spickzettel/tex/MatrixUndSo.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/Spickzettel/tex/MatrixUndSo.tex
+> git cat-file -s f8b78f84e74f6c92608efc37c2a28d30cc7250d5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

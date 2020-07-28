@@ -1,0 +1,19 @@
+**** BEGIN LOGGING AT Fri May 24 14:45:54 2019
+
+May 24 14:45:54 *	Looking up irc.selfnet.de
+**** BEGIN LOGGING AT Fri May 24 22:31:23 2019
+
+May 24 22:31:23 Unknown Command exti. Try /help
+May 24 22:31:28 Not connected. Try /server <host> [<port>]
+May 24 22:31:33 Unknown Command stop. Try /help
+**** BEGIN LOGGING AT Sat Apr 25 11:44:50 2020
+
+Apr 25 11:44:50 *	Looking up irc.selfnet.de
+Apr 25 11:44:50 *	Connecting to irc.selfnet.de (141.70.126.42:6667)
+Apr 25 11:44:50 *	Connected. Now logging in.
+Apr 25 11:44:50 *	*** Looking up your hostname
+Apr 25 11:44:50 *	*** Checking Ident
+Apr 25 11:44:50 *	*** Found your hostname
+Apr 25 11:44:59 *	*** No ident response
+**** ENDING LOGGING AT Sat Apr 25 11:44:59 2020
+

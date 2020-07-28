@@ -1,0 +1,1222 @@
+[16:15:54] Initializing LaTeX Workshop.
+[16:15:54] Creating PDF file watcher.
+[16:15:54] Creating LaTeX Workshop http and websocket server.
+[16:15:54] LaTeX Workshop initialized.
+[16:15:54] Server created on 127.0.0.1:32979
+[16:15:54] Snippet data loaded.
+[16:15:54] LaTeX Workshop version: 8.11.1
+[16:15:55] Found root file from parent: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:15:55] Root file changed: from undefined to /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:15:55] Start to find all dependencies.
+[16:15:55] Instantiating a new file watcher for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:15:55] Creating Bib file watcher.
+[16:15:55] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:15:55] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/B6A1.tex
+[16:15:55] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/a.tex
+[16:15:55] Parse fls file.
+[16:15:55] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/a.fls
+[16:15:55] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/b.tex
+[16:15:55] Parse fls file.
+[16:15:55] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/b.fls
+[16:15:55] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/c.tex
+[16:15:55] Parse fls file.
+[16:15:55] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/c.fls
+[16:15:55] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/d.tex
+[16:15:55] Parse fls file.
+[16:15:55] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/d.fls
+[16:15:55] Parse fls file.
+[16:15:55] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/B6A1.fls
+[16:15:55] Parse fls file.
+[16:15:55] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fls
+[16:15:55] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux
+[16:15:55] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:15:55] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/B6A1.tex
+[16:15:55] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/a.tex
+[16:15:55] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/b.tex
+[16:15:55] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/c.tex
+[16:15:55] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/d.tex
+[16:15:55] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/mystyle.sty
+[16:15:55] Handle data type: open
+[16:15:55] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.pdf
+[16:15:55] Handle data type: request_params
+[16:15:55] Handle data type: loaded
+[16:16:02] BUILD command invoked.
+[16:16:02] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:16:02] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:16:02] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:16:02] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:16:02] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:16:02] LaTeX build process spawned. PID: 589498.
+[16:16:04] LaTeX log parsed with 152 messages.
+[16:16:04] Recipe returns with error: 12/null. PID: 589498. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      'numGl_Blatt06.aux'
+      'tex/B6A1.tex'
+      'tex/b.tex'
+      'tex/c.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+Latexmk: List of undefined refs and citations:
+  Reference `plot_one' on page 3 undefined on input line 56
+  Reference `plot_two' on page 3 undefined on input line 56
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:16:04] Cleaning auxiliary files and retrying build after toolchain error.
+[16:16:04] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux
+[16:16:04] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fls
+[16:16:04] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fdb_latexmk
+[16:16:04] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log
+[16:16:04] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:16:04] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:16:04] LaTeX build process spawned. PID: 589586.
+[16:16:07] LaTeX log parsed with 156 messages.
+[16:16:07] Recipe returns with error: 12/null. PID: 589586. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+Latexmk: References changed.
+Latexmk: References changed.
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 72
+  Reference `LastPage' on page 2 undefined on input line 98
+  Reference `plot_one' on page 3 undefined on input line 56
+  Reference `plot_two' on page 3 undefined on input line 56
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 4 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:19:08] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:19:09] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:19:09] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:19:10] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:19:11] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/c.tex
+[16:19:11] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/c.tex
+[16:19:11] Parse fls file.
+[16:19:11] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/c.fls
+[16:19:11] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/c.tex
+[16:19:11] BUILD command invoked.
+[16:19:11] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:19:11] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:19:11] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:19:11] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:19:11] LaTeX build process spawned. PID: 594983.
+[16:19:13] LaTeX log parsed with 152 messages.
+[16:19:13] Recipe returns with error: 12/null. PID: 594983. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Latexmk: In reading rule 'pdflatex' in '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fdb_latexmk',
+  destination has different name than configured...
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      'numGl_Blatt06.aux'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+Latexmk: List of undefined refs and citations:
+  Reference `plot_one' on page 3 undefined on input line 56
+  Reference `plot_two' on page 3 undefined on input line 56
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:19:13] Cleaning auxiliary files and retrying build after toolchain error.
+[16:19:13] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fls
+[16:19:13] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux
+[16:19:13] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log
+[16:19:13] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fdb_latexmk
+[16:19:13] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:19:13] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:19:13] LaTeX build process spawned. PID: 595027.
+[16:19:15] LaTeX log parsed with 156 messages.
+[16:19:15] Recipe returns with error: 12/null. PID: 595027. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+Latexmk: References changed.
+Latexmk: References changed.
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 72
+  Reference `LastPage' on page 2 undefined on input line 98
+  Reference `plot_one' on page 3 undefined on input line 56
+  Reference `plot_two' on page 3 undefined on input line 56
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 4 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:21:05] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:21:41] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/mystyle.sty
+[16:21:41] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/mystyle.sty
+[16:21:41] BUILD command invoked.
+[16:21:41] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:21:41] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:21:41] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:21:41] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:21:41] LaTeX build process spawned. PID: 599111.
+[16:21:41] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/B6A1.tex
+[16:21:41] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/B6A1.tex
+[16:21:41] Parse fls file.
+[16:21:41] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/B6A1.fls
+[16:21:41] Auto Build Run is temporarily disabled during a second.
+[16:21:41] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/a.tex
+[16:21:41] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/a.tex
+[16:21:41] Parse fls file.
+[16:21:41] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/a.fls
+[16:21:41] Auto Build Run is temporarily disabled during a second.
+[16:21:41] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/c.tex
+[16:21:41] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/c.tex
+[16:21:41] Parse fls file.
+[16:21:41] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/c.fls
+[16:21:41] Auto Build Run is temporarily disabled during a second.
+[16:21:41] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/d.tex
+[16:21:41] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/d.tex
+[16:21:41] Parse fls file.
+[16:21:41] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/d.fls
+[16:21:41] Auto Build Run is temporarily disabled during a second.
+[16:21:44] LaTeX log parsed with 131 messages.
+[16:21:44] Recipe returns with error: 12/null. PID: 599111. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux'
+      'mystyle.sty'
+      'tex/B6A1.tex'
+      'tex/a.tex'
+      'tex/c.tex'
+      'tex/d.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:21:44] Cleaning auxiliary files and retrying build after toolchain error.
+[16:21:44] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux
+[16:21:44] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fls
+[16:21:44] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fdb_latexmk
+[16:21:44] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log
+[16:21:44] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:21:44] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:21:44] LaTeX build process spawned. PID: 599172.
+[16:21:47] LaTeX log parsed with 133 messages.
+[16:21:47] Recipe returns with error: 12/null. PID: 599172. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:22:21] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:23:30] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:23:33] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:23:33] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:23:35] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:23:36] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/b.tex
+[16:23:36] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/b.tex
+[16:23:36] Parse fls file.
+[16:23:36] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/b.fls
+[16:23:36] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/b.tex
+[16:23:36] BUILD command invoked.
+[16:23:36] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:23:36] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:23:36] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:23:36] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:23:36] LaTeX build process spawned. PID: 601542.
+[16:23:39] LaTeX log parsed with 133 messages.
+[16:23:39] Recipe returns with error: 12/null. PID: 601542. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:23:39] Cleaning auxiliary files and retrying build after toolchain error.
+[16:23:39] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux
+[16:23:39] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log
+[16:23:39] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fls
+[16:23:39] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fdb_latexmk
+[16:23:39] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:23:39] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:23:39] LaTeX build process spawned. PID: 601627.
+[16:23:42] LaTeX log parsed with 133 messages.
+[16:23:42] Recipe returns with error: 12/null. PID: 601627. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:23:45] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:23:45] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:24:11] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:24:11] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:24:21] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:24:24] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:25:48] Found root file from active editor: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:25:48] Found root file from active editor: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:25:48] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:25:48] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:25:50] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:25:50] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:25:50] Parse fls file.
+[16:25:50] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fls
+[16:25:50] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux
+[16:25:50] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:25:50] BUILD command invoked.
+[16:25:50] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:25:50] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:25:50] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:25:50] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:25:50] LaTeX build process spawned. PID: 604340.
+[16:25:50] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.md5
+[16:25:50] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:25:50] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.md5
+[16:25:50] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:25:51] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.md5
+[16:25:51] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.md5
+[16:25:51] BUILD command invoked.
+[16:25:51] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:25:52] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:25:52] Auto Build Run is temporarily disabled during a second.
+[16:25:53] LaTeX log parsed with 133 messages.
+[16:25:53] Recipe returns with error: 12/null. PID: 604340. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux'
+      'tex/a.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:25:53] Cleaning auxiliary files and retrying build after toolchain error.
+[16:25:53] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux
+[16:25:53] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fls
+[16:25:53] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fdb_latexmk
+[16:25:53] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log
+[16:25:53] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:25:53] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:25:53] LaTeX build process spawned. PID: 604387.
+[16:25:53] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:25:53] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:25:53] BUILD command invoked.
+[16:25:53] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:25:53] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:25:55] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:25:55] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:25:55] BUILD command invoked.
+[16:25:55] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:25:55] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:25:55] LaTeX log parsed with 133 messages.
+[16:25:55] Recipe returns with error: 12/null. PID: 604387. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:25:55] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:25:55] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:25:55] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:25:55] LaTeX build process spawned. PID: 604471.
+[16:25:55] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:25:55] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:25:55] BUILD command invoked.
+[16:25:55] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:25:57] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex.
+[16:25:57] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:25:57] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:25:57] BUILD command invoked.
+[16:25:57] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:25:57] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:25:58] LaTeX log parsed with 133 messages.
+[16:25:58] Recipe returns with error: 12/null. PID: 604471. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:25:58] Cleaning auxiliary files and retrying build after toolchain error.
+[16:25:58] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux
+[16:25:58] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fls
+[16:25:58] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log
+[16:25:58] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fdb_latexmk
+[16:25:58] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:25:58] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:25:58] LaTeX build process spawned. PID: 604520.
+[16:25:58] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:25:58] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:25:58] BUILD command invoked.
+[16:25:58] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:25:58] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:00] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:00] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:00] BUILD command invoked.
+[16:26:00] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:00] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:01] LaTeX log parsed with 133 messages.
+[16:26:01] Recipe returns with error: 12/null. PID: 604520. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:26:01] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:01] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:26:01] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:26:01] LaTeX build process spawned. PID: 604603.
+[16:26:01] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:01] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:01] BUILD command invoked.
+[16:26:01] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:03] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:03] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:03] BUILD command invoked.
+[16:26:03] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:03] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:04] LaTeX log parsed with 133 messages.
+[16:26:04] Recipe returns with error: 12/null. PID: 604603. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:26:04] Cleaning auxiliary files and retrying build after toolchain error.
+[16:26:04] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux
+[16:26:04] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fls
+[16:26:04] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log
+[16:26:04] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fdb_latexmk
+[16:26:04] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:26:04] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:26:04] LaTeX build process spawned. PID: 604649.
+[16:26:04] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:04] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:04] BUILD command invoked.
+[16:26:04] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:04] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:06] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:06] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:06] BUILD command invoked.
+[16:26:06] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:06] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:07] LaTeX log parsed with 133 messages.
+[16:26:07] Recipe returns with error: 12/null. PID: 604649. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:26:07] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:07] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:26:07] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:26:07] LaTeX build process spawned. PID: 604695.
+[16:26:07] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:07] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:07] BUILD command invoked.
+[16:26:07] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:09] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:09] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:09] BUILD command invoked.
+[16:26:09] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:09] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:09] LaTeX log parsed with 133 messages.
+[16:26:09] Recipe returns with error: 12/null. PID: 604695. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:26:09] Cleaning auxiliary files and retrying build after toolchain error.
+[16:26:10] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux
+[16:26:10] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fls
+[16:26:10] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fdb_latexmk
+[16:26:10] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log
+[16:26:10] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:26:10] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:26:10] LaTeX build process spawned. PID: 604778.
+[16:26:10] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:10] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:10] BUILD command invoked.
+[16:26:10] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:10] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:12] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:12] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:12] BUILD command invoked.
+[16:26:12] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:12] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:12] LaTeX log parsed with 133 messages.
+[16:26:12] Recipe returns with error: 12/null. PID: 604778. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:26:12] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:12] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:26:12] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:26:12] LaTeX build process spawned. PID: 604824.
+[16:26:12] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:12] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:12] BUILD command invoked.
+[16:26:12] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:14] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:14] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:14] BUILD command invoked.
+[16:26:14] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:14] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:15] LaTeX log parsed with 133 messages.
+[16:26:15] Recipe returns with error: 12/null. PID: 604824. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:26:15] Cleaning auxiliary files and retrying build after toolchain error.
+[16:26:15] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fls
+[16:26:15] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log
+[16:26:15] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fdb_latexmk
+[16:26:15] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux
+[16:26:15] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:26:15] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:26:15] LaTeX build process spawned. PID: 604908.
+[16:26:15] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:15] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:15] BUILD command invoked.
+[16:26:15] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:15] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:17] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:17] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:17] BUILD command invoked.
+[16:26:17] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:17] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:18] LaTeX log parsed with 133 messages.
+[16:26:18] Recipe returns with error: 12/null. PID: 604908. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:26:18] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:18] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:26:18] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:26:18] LaTeX build process spawned. PID: 604956.
+[16:26:18] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:18] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:18] BUILD command invoked.
+[16:26:18] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:20] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:20] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:20] BUILD command invoked.
+[16:26:20] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:20] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:21] LaTeX log parsed with 133 messages.
+[16:26:21] Recipe returns with error: 12/null. PID: 604956. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:26:21] Cleaning auxiliary files and retrying build after toolchain error.
+[16:26:21] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux
+[16:26:21] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fls
+[16:26:21] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fdb_latexmk
+[16:26:21] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log
+[16:26:21] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:26:21] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:26:21] LaTeX build process spawned. PID: 605003.
+[16:26:21] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:21] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:21] BUILD command invoked.
+[16:26:21] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:21] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:23] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:23] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:23] BUILD command invoked.
+[16:26:23] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:23] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:24] LaTeX log parsed with 133 messages.
+[16:26:24] Recipe returns with error: 12/null. PID: 605003. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:26:24] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:24] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:26:24] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:26:24] LaTeX build process spawned. PID: 605087.
+[16:26:24] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:24] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:24] BUILD command invoked.
+[16:26:24] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:26] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:26] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:26] BUILD command invoked.
+[16:26:26] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:26] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:26] LaTeX log parsed with 133 messages.
+[16:26:27] Recipe returns with error: 12/null. PID: 605087. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:26:27] Cleaning auxiliary files and retrying build after toolchain error.
+[16:26:27] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux
+[16:26:27] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fls
+[16:26:27] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log
+[16:26:27] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fdb_latexmk
+[16:26:27] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:26:27] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:26:27] LaTeX build process spawned. PID: 605132.
+[16:26:27] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:27] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:27] BUILD command invoked.
+[16:26:27] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:27] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:28] ACTIONS command invoked.
+[16:26:29] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:29] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:29] BUILD command invoked.
+[16:26:29] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:29] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:29] LaTeX log parsed with 133 messages.
+[16:26:29] Recipe returns with error: 12/null. PID: 605132. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:26:29] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:29] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:26:29] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:26:29] LaTeX build process spawned. PID: 605220.
+[16:26:29] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:29] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:29] BUILD command invoked.
+[16:26:29] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:31] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:31] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:31] BUILD command invoked.
+[16:26:31] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:31] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:32] LaTeX log parsed with 133 messages.
+[16:26:32] Recipe returns with error: 12/null. PID: 605220. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:26:32] Cleaning auxiliary files and retrying build after toolchain error.
+[16:26:32] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux
+[16:26:32] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fls
+[16:26:32] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log
+[16:26:32] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fdb_latexmk
+[16:26:32] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:26:32] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:26:32] LaTeX build process spawned. PID: 605267.
+[16:26:32] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:32] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:32] BUILD command invoked.
+[16:26:32] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:32] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:34] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:34] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:34] BUILD command invoked.
+[16:26:34] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:34] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:35] LaTeX log parsed with 133 messages.
+[16:26:35] Recipe returns with error: 12/null. PID: 605267. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:26:35] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:35] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:26:35] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:26:35] LaTeX build process spawned. PID: 605352.
+[16:26:35] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:35] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:35] BUILD command invoked.
+[16:26:35] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:37] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:37] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:37] BUILD command invoked.
+[16:26:37] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:37] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:38] LaTeX log parsed with 133 messages.
+[16:26:38] Recipe returns with error: 12/null. PID: 605352. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:26:38] Cleaning auxiliary files and retrying build after toolchain error.
+[16:26:38] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux
+[16:26:38] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fls
+[16:26:38] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log
+[16:26:38] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fdb_latexmk
+[16:26:38] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:26:38] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:26:38] LaTeX build process spawned. PID: 605400.
+[16:26:38] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:38] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:38] BUILD command invoked.
+[16:26:38] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:38] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:40] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:40] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:40] BUILD command invoked.
+[16:26:40] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:40] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:41] LaTeX log parsed with 133 messages.
+[16:26:41] Recipe returns with error: 12/null. PID: 605400. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:26:41] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:41] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:26:41] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:26:41] LaTeX build process spawned. PID: 605446.
+[16:26:41] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:41] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:41] BUILD command invoked.
+[16:26:41] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:43] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:43] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:43] BUILD command invoked.
+[16:26:43] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:43] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:44] LaTeX log parsed with 133 messages.
+[16:26:44] Recipe returns with error: 12/null. PID: 605446. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06"  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex"'
+------------
+system returned with code 256
+system returned with code 256
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 69
+  Reference `LastPage' on page 2 undefined on input line 96
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 2 reference(s)
+  =====Latex reported missing or unavailable character(s).
+=====See log file for details.
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[16:26:44] Cleaning auxiliary files and retrying build after toolchain error.
+[16:26:44] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.aux
+[16:26:44] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fls
+[16:26:44] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.log
+[16:26:44] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.fdb_latexmk
+[16:26:44] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06
+[16:26:44] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06
+[16:26:44] LaTeX build process spawned. PID: 605532.
+[16:26:44] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:44] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure1.dpth
+[16:26:44] BUILD command invoked.
+[16:26:44] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:44] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[16:26:46] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:46] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tikz/numGl_Blatt06-figure0.dpth
+[16:26:46] BUILD command invoked.
+[16:26:46] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/numGl_Blatt06.tex
+[16:26:46] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.

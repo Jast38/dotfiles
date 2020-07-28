@@ -1,0 +1,91 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :NumGl_Blatt06/tex/a.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/a.tex
+> git cat-file -s 893ba1c179bd0075123f66d0352aba33dc74759c
+> git show --textconv :NumGl_Blatt06/tex/B6A1.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/B6A1.tex
+> git cat-file -s a04359bfd294b0da7db5b724e652572a337c0503
+> git show --textconv :NumGl_Blatt06/tex/a.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/a.tex
+> git cat-file -s 893ba1c179bd0075123f66d0352aba33dc74759c
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/a.tex
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/a.tex
+> git show --textconv :NumGl_Blatt06/tex/a.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/a.tex
+> git cat-file -s 893ba1c179bd0075123f66d0352aba33dc74759c
+> git show --textconv :NumGl_Blatt06/tex/b.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/b.tex
+> git cat-file -s b75c9ea3884076420a9e82ea840710fdaaceb6dc
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/b.tex
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/b.tex
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/b.tex
+> git cat-file -s b75c9ea3884076420a9e82ea840710fdaaceb6dc
+> git show --textconv :NumGl_Blatt06/tex/b.tex
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :NumGl_Blatt06/tex/c.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/c.tex
+> git cat-file -s 22d97b0e4309e1b19147c0e4b3b1b83ec13b685a
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template

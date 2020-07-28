@@ -1,0 +1,156 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :NumGl_Blatt06/mystyle.sty
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/mystyle.sty
+> git cat-file -s 31918a7570e2ecddd4baa685023fa9c39d849ed4
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/mystyle.sty
+> git cat-file -s 31918a7570e2ecddd4baa685023fa9c39d849ed4
+> git show --textconv :NumGl_Blatt06/mystyle.sty
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :NumGl_Blatt06/tex/a.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/a.tex
+> git cat-file -s db624e22bb7d127163693c846ee7ffb87a9357d0
+> git show --textconv :NumGl_Blatt06/tex/b.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/b.tex
+> git cat-file -s a85abbf63b64bd2aace84028752c01f8a6b8b519
+> git show --textconv :NumGl_Blatt06/tex/B6A1.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/B6A1.tex
+> git cat-file -s 32b4382bcd8efec8f9a0960aa106484d332a7fde
+> git show --textconv :NumGl_Blatt06/tex/a.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/a.tex
+> git cat-file -s db624e22bb7d127163693c846ee7ffb87a9357d0
+> git show --textconv :NumGl_Blatt06/tex/c.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/c.tex
+> git cat-file -s 42868e9c3e0ec3c859b5979aa2b83701e1918b8e
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :NumGl_Blatt06/tex/a.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/a.tex
+> git cat-file -s db624e22bb7d127163693c846ee7ffb87a9357d0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :NumGl_Blatt06/tex/B6A1.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/B6A1.tex
+> git cat-file -s 32b4382bcd8efec8f9a0960aa106484d332a7fde
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :NumGl_Blatt06/tex/d.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/d.tex
+> git cat-file -s e1be8d556b8700ed844cfa3cc303c92e7f0156ea
+> git fetch
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/d.tex
+> git cat-file -s e1be8d556b8700ed844cfa3cc303c92e7f0156ea
+> git show --textconv :NumGl_Blatt06/tex/d.tex
+From https://github.com/chrishaxalot/ss20NumGl
+   8369dd4..88625bf  master     -> origin/master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/d.tex
+> git cat-file -s e1be8d556b8700ed844cfa3cc303c92e7f0156ea
+> git show --textconv :NumGl_Blatt06/tex/d.tex
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/b.tex
+> git show --textconv :NumGl_Blatt06/tex/b.tex
+> git ls-files --stage -- /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20NumGl/NumGl_Blatt06/tex/b.tex
+> git cat-file -s a85abbf63b64bd2aace84028752c01f8a6b8b519
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

@@ -1,0 +1,66 @@
+[2020-07-10 10:02:03.415] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-10 10:02:04.504] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-10 10:02:05.596] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-10 10:02:30.570] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-10 10:02:49.596] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-10 11:47:49.615] [renderer1] [error] Illegal value for `line`: Error: Illegal value for `line`
+	at d._lineAt (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:471:927)
+	at Object.lineAt (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:470:891)
+	at MathPreview.findEndPair (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/out/src/providers/preview/mathpreview.js:383:45)
+	at MathPreview.findHoverOnParen (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/out/src/providers/preview/mathpreview.js:434:29)
+	at MathPreview.findHoverOnTex (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/out/src/providers/preview/mathpreview.js:334:25)
+	at HoverProvider.provideHover (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/out/src/providers/hover.js:37:52)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:677:700
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:136
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:108)
+	at C.provideHover (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:677:671)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:698:653
+	at e._withAdapter (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:632)
+	at e.$provideHover (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:698:631)
+	at e._doInvokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:804:1013)
+	at e._invokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:804:705)
+	at e._receiveRequest (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:803:293)
+	at e._receiveOneMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:802:156)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:800:416
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at v.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:274)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:649
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at v.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:239:274)
+	at t.PersistentProtocol._receiveMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:243:629)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:824
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:242)
+	at p.acceptChunk (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:737)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:236:89
+	at Socket.t (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:245:185)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)

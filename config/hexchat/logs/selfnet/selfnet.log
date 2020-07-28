@@ -1,0 +1,151 @@
+**** BEGIN LOGGING AT Fri May 24 14:45:54 2019
+
+May 24 14:45:54 *	Disconnected (Connection reset by peer)
+May 24 14:46:04 Cycling to next server in selfnet...
+May 24 14:46:04 *	Disconnected ()
+May 24 14:46:04 *	Looking up irc.selfnet.de
+May 24 14:46:04 *	Connecting to irc.selfnet.de (2001:7c7:2100:400::12:6697)
+May 24 14:46:04 *	Connected. Now logging in.
+May 24 14:46:04 *	Disconnected (Connection reset by peer)
+May 24 14:46:14 Cycling to next server in selfnet...
+May 24 14:46:14 *	Disconnected ()
+May 24 14:46:14 *	Looking up irc.selfnet.de
+May 24 14:46:14 *	Connecting to irc.selfnet.de (2001:7c7:2100:400::12:6697)
+May 24 14:46:14 *	Connected. Now logging in.
+May 24 14:46:14 *	Disconnected (Connection reset by peer)
+May 24 14:46:24 Cycling to next server in selfnet...
+May 24 14:46:24 *	Disconnected ()
+May 24 14:46:24 *	Looking up irc.selfnet.de
+May 24 14:46:24 *	Connecting to irc.selfnet.de (2001:7c7:2100:400::12:6697)
+May 24 14:46:24 *	Connected. Now logging in.
+May 24 14:46:24 *	Disconnected (Connection reset by peer)
+May 24 14:46:34 Cycling to next server in selfnet...
+May 24 14:46:34 *	Disconnected ()
+May 24 14:46:34 *	Looking up irc.selfnet.de
+May 24 14:46:34 *	Connecting to irc.selfnet.de (2001:7c7:2100:400::12:6697)
+May 24 14:46:34 *	Connected. Now logging in.
+May 24 14:46:34 *	Disconnected (Connection reset by peer)
+May 24 14:46:41 *	Disconnected ()
+May 24 14:46:41 *	Looking up irc.selfnet.de
+May 24 14:46:41 *	Connecting to irc.selfnet.de (2001:7c7:2100:400::12:6667)
+May 24 14:46:41 *	Connected. Now logging in.
+May 24 14:46:41 *	*** Looking up your hostname
+May 24 14:46:41 *	*** Checking Ident
+May 24 14:46:41 *	*** No ident response
+May 24 14:46:41 *	*** Couldn't look up your hostname
+**** ENDING LOGGING AT Fri May 24 14:46:41 2019
+
+**** BEGIN LOGGING AT Fri May 24 14:46:41 2019
+
+May 24 14:46:41 *	Welcome to the Selfnet IRC Network, jast
+May 24 14:46:41 *	Your host is irc-1.Selfnet.de, running version u2.10.12.pre13-OGN3
+May 24 14:46:41 *	This server was created Sat May 5 2018 at 22:07:47 CEST
+May 24 14:46:41 *	irc-1.Selfnet.de u2.10.12.pre13-OGN3 dioswkgxnIXSHc AcCbiklmMnopstUvrDRz AbkloUv
+May 24 14:46:41 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=30 :are supported by this server
+May 24 14:46:41 *	MAXNICKLEN=30 TOPICLEN=500 AWAYLEN=300 KICKLEN=500 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=# PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,AkU,l,cCimMnpstrDdRz CASEMAPPING=rfc1459 NETWORK=Selfnet :are supported by this server
+May 24 14:46:41 *	There are 21 users and 17 invisible on 4 servers
+May 24 14:46:41 *	5 :operator(s) online
+May 24 14:46:41 *	9 :channels formed
+May 24 14:46:41 *	I have 20 clients and 2 servers
+May 24 14:46:41 *	Highest connection count: 27 (25 clients)
+May 24 14:46:41 *	- irc-1.Selfnet.de Message of the Day - 
+May 24 14:46:41 *	TRUE
+May 24 14:46:41 *	Type /MOTD to read the AUP before continuing using this service.
+May 24 14:46:41 *	The message of the day was last changed: 2015-9-3 20:54
+May 24 14:46:41 *	End of /MOTD command.
+May 24 14:46:41 *	on 1 ca 1(4) ft 20(20)
+May 24 14:46:41 *	Your connection class is: Selfnet
+May 24 14:46:41 *	You may join 20 channels.
+May 24 14:46:47 Checksum plugin unloaded
+May 24 14:46:47 Perl interface unloaded
+**** BEGIN LOGGING AT Sat Apr 25 11:44:44 2020
+
+Apr 25 11:44:44 *	Welcome to the Selfnet IRC Network, jast
+Apr 25 11:44:44 *	Your host is irc-3.Selfnet.de, running version u2.10.12.pre13-OGN3
+Apr 25 11:44:44 *	This server was created Sat May 5 2018 at 22:11:51 CEST
+Apr 25 11:44:44 *	irc-3.Selfnet.de u2.10.12.pre13-OGN3 dioswkgxnIXSHc AcCbiklmMnopstUvrDRz AbkloUv
+Apr 25 11:44:44 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=30 :are supported by this server
+Apr 25 11:44:44 *	MAXNICKLEN=30 TOPICLEN=500 AWAYLEN=300 KICKLEN=500 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=# PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,AkU,l,cCimMnpstrDdRz CASEMAPPING=rfc1459 NETWORK=Selfnet :are supported by this server
+Apr 25 11:44:44 *	There are 26 users and 31 invisible on 4 servers
+Apr 25 11:44:44 *	5 :operator(s) online
+Apr 25 11:44:44 *	12 :channels formed
+Apr 25 11:44:44 *	I have 15 clients and 2 servers
+Apr 25 11:44:44 *	Highest connection count: 20 (17 clients)
+Apr 25 11:44:44 *	MOTD File is missing
+Apr 25 11:44:44 *	on 1 ca 1(4) ft 20(20)
+Apr 25 11:44:44 *	Your connection class is: Selfnet
+Apr 25 11:44:44 *	You may join 20 channels.
+**** BEGIN LOGGING AT Sat Apr 25 11:44:59 2020
+
+Apr 25 11:44:59 *	Welcome to the Selfnet IRC Network, jastu
+Apr 25 11:44:59 *	Your host is irc-1.Selfnet.de, running version u2.10.12.pre13-OGN3
+Apr 25 11:44:59 *	This server was created Sat May 5 2018 at 22:07:47 CEST
+Apr 25 11:44:59 *	irc-1.Selfnet.de u2.10.12.pre13-OGN3 dioswkgxnIXSHc AcCbiklmMnopstUvrDRz AbkloUv
+Apr 25 11:44:59 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=30 :are supported by this server
+Apr 25 11:44:59 *	MAXNICKLEN=30 TOPICLEN=500 AWAYLEN=300 KICKLEN=500 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=# PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,AkU,l,cCimMnpstrDdRz CASEMAPPING=rfc1459 NETWORK=Selfnet :are supported by this server
+Apr 25 11:44:59 *	There are 27 users and 31 invisible on 4 servers
+Apr 25 11:44:59 *	5 :operator(s) online
+Apr 25 11:44:59 *	12 :channels formed
+Apr 25 11:44:59 *	I have 29 clients and 2 servers
+Apr 25 11:44:59 *	Highest connection count: 32 (30 clients)
+Apr 25 11:44:59 *	- irc-1.Selfnet.de Message of the Day - 
+Apr 25 11:44:59 *	TRUE
+Apr 25 11:44:59 *	Type /MOTD to read the AUP before continuing using this service.
+Apr 25 11:44:59 *	The message of the day was last changed: 2015-9-3 20:54
+Apr 25 11:44:59 *	End of /MOTD command.
+Apr 25 11:44:59 *	on 2 ca 2(4) ft 20(20)
+Apr 25 11:44:59 *	Your connection class is: Selfnet
+Apr 25 11:44:59 *	You may join 20 channels.
+**** ENDING LOGGING AT Sat Apr 25 11:45:37 2020
+
+**** BEGIN LOGGING AT Mon Apr 27 10:06:00 2020
+
+Apr 27 10:06:00 *	Welcome to the Selfnet IRC Network, jastu
+Apr 27 10:06:00 *	Your host is irc-3.Selfnet.de, running version u2.10.12.pre13-OGN3
+Apr 27 10:06:00 *	This server was created Sat May 5 2018 at 22:11:51 CEST
+Apr 27 10:06:00 *	irc-3.Selfnet.de u2.10.12.pre13-OGN3 dioswkgxnIXSHc AcCbiklmMnopstUvrDRz AbkloUv
+Apr 27 10:06:00 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=30 :are supported by this server
+Apr 27 10:06:00 *	MAXNICKLEN=30 TOPICLEN=500 AWAYLEN=300 KICKLEN=500 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=# PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,AkU,l,cCimMnpstrDdRz CASEMAPPING=rfc1459 NETWORK=Selfnet :are supported by this server
+Apr 27 10:06:00 *	There are 25 users and 31 invisible on 4 servers
+Apr 27 10:06:00 *	5 :operator(s) online
+Apr 27 10:06:00 *	12 :channels formed
+Apr 27 10:06:00 *	I have 14 clients and 2 servers
+Apr 27 10:06:00 *	Highest connection count: 20 (17 clients)
+Apr 27 10:06:00 *	MOTD File is missing
+Apr 27 10:06:00 *	on 1 ca 1(4) ft 20(20)
+Apr 27 10:06:00 *	Your connection class is: Selfnet
+Apr 27 10:06:00 *	You may join 20 channels.
+**** ENDING LOGGING AT Mon Apr 27 10:57:59 2020
+
+**** BEGIN LOGGING AT Mon Apr 27 10:57:59 2020
+
+**** ENDING LOGGING AT Mon Apr 27 10:59:18 2020
+
+**** BEGIN LOGGING AT Mon Apr 27 10:59:18 2020
+
+**** BEGIN LOGGING AT Sun Jun 14 20:22:55 2020
+
+Jun 14 20:22:55 *	Welcome to the Selfnet IRC Network, jastu
+Jun 14 20:22:55 *	Your host is irc-1.Selfnet.de, running version u2.10.12.pre13-OGN3
+Jun 14 20:22:55 *	This server was created Sat May 5 2018 at 22:07:47 CEST
+Jun 14 20:22:55 *	irc-1.Selfnet.de u2.10.12.pre13-OGN3 dioswkgxnIXSHc AcCbiklmMnopstUvrDRz AbkloUv
+Jun 14 20:22:55 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=30 :are supported by this server
+Jun 14 20:22:55 *	MAXNICKLEN=30 TOPICLEN=500 AWAYLEN=300 KICKLEN=500 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=# PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,AkU,l,cCimMnpstrDdRz CASEMAPPING=rfc1459 NETWORK=Selfnet :are supported by this server
+Jun 14 20:22:55 *	There are 27 users and 26 invisible on 3 servers
+Jun 14 20:22:55 *	5 :operator(s) online
+Jun 14 20:22:55 *	9 :channels formed
+Jun 14 20:22:55 *	I have 32 clients and 2 servers
+Jun 14 20:22:55 *	Highest connection count: 45 (43 clients)
+Jun 14 20:22:55 *	- irc-1.Selfnet.de Message of the Day - 
+Jun 14 20:22:55 *	TRUE
+Jun 14 20:22:55 *	Type /MOTD to read the AUP before continuing using this service.
+Jun 14 20:22:55 *	The message of the day was last changed: 2015-9-3 20:54
+Jun 14 20:22:55 *	End of /MOTD command.
+Jun 14 20:22:55 *	on 1 ca 1(4) ft 20(20)
+Jun 14 20:22:55 *	Your connection class is: Selfnet
+Jun 14 20:22:55 *	You may join 20 channels.
+Jun 14 20:23:38 Checksum plugin unloaded
+Jun 14 20:23:38 Perl interface unloaded
+Jun 14 20:23:38 Sysinfo plugin unloaded
+**** ENDING LOGGING AT Sun Jun 14 20:23:38 2020
+

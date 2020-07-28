@@ -1,0 +1,20 @@
+00:00:00.384267 VirtualBox GUI VM Selector Window 6.1.6 r137129 linux.amd64 (Apr 15 2020 10:13:28) release log
+00:00:00.384268 Log opened 2020-05-10T11:50:45.707424000Z
+00:00:00.384268 Build Type: release
+00:00:00.384269 OS Product: Linux
+00:00:00.384270 OS Release: 5.6.11-arch1-1
+00:00:00.384270 OS Version: #1 SMP PREEMPT Wed, 06 May 2020 17:32:37 +0000
+00:00:00.384282 DMI Product Name: X470 AORUS ULTRA GAMING
+00:00:00.384285 DMI Product Version: Default string
+00:00:00.384288 Firmware type: UEFI
+00:00:00.384838 Secure Boot: Disabled
+00:00:00.384861 Host RAM: 16027MB (15.6GB) total, 13959MB (13.6GB) available
+00:00:00.384866 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.384866 Process ID: 51747
+00:00:00.384867 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.384890 Qt version: 5.14.2
+00:00:00.416148 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.874467 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 2 work area is actually resized to: 961x444 x 474x1050
+00:00:00.874643 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 481x444 x 474x1050
+00:00:00.874652 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 2x444 x 473x1050
+00:00:00.878285 GUI: UIMediumEnumerator: Medium-enumeration finished!

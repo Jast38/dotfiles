@@ -1,0 +1,259 @@
+# i3 config file (v4) 
+set $mod Mod4
+
+# Font for window titles. Will also be used by the bar unless a different font
+# is used in the bar {} block below.
+font pango:System San Francisco Display 13
+
+# Use Mouse+$mod to drag floating windows to their wanted position
+floating_modifier $mod
+
+# start a terminal
+bindsym $mod+Return exec termite
+
+# kill focused window
+bindsym $mod+Shift+q kill
+
+# change focus
+bindsym $mod+h focus left
+bindsym $mod+j focus down
+bindsym $mod+k focus up
+bindsym $mod+l focus right
+
+# move focused window
+bindsym $mod+Shift+h move left 30
+bindsym $mod+Shift+j move down 30
+bindsym $mod+Shift+k move up 30
+bindsym $mod+Shift+l move right 30
+
+#move workspaces
+bindsym $mod+Ctrl+h move workspace to output left
+bindsym $mod+Ctrl+l move workspace to output right
+
+# split in horizontal orientation
+bindsym $mod+plus split h
+
+# split in vertical orientation
+bindsym $mod+v split v
+
+# enter fullscreen mode for the focused container
+bindsym $mod+f fullscreen toggle
+
+# change container layout (stacked, tabbed, toggle split)
+bindsym Mod1+s layout stacking
+bindsym $mod+w layout tabbed
+bindsym $mod+e layout toggle split
+
+# toggle tiling / floating
+bindsym --whole-window $mod+button2 floating toggle
+
+# change focus between tiling / floating windows
+bindsym $mod+space focus mode_toggle
+
+# focus the parent container
+bindsym $mod+a focus parent
+
+# focus the child container
+#bindsym $mod+o focus child
+
+#gaps resize
+bindsym $mod+s			gaps inner current plus 1
+bindsym $mod+Shift+s		gaps inner current minus 1
+bindsym $mod+z			gaps outer current plus 1
+bindsym $mod+Shift+z		gaps outer current minus 1
+
+
+set $workspace1 "1:  "
+set $workspace2 "2:   "
+set $workspace3 "3:   "
+set $workspace4 "4:  "
+set $workspace5 "5:  "
+set $workspace6 "6: "
+set $workspace7 "7: "
+set $workspace8 "8: "
+set $workspace9 "9: "
+set $workspace10 "10:  "
+
+# switch to workspace
+bindsym $mod+1 workspace $workspace1
+bindsym $mod+2 workspace $workspace2
+bindsym $mod+3 workspace $workspace3
+bindsym $mod+4 workspace $workspace4
+bindsym $mod+5 workspace $workspace5
+bindsym $mod+6 workspace $workspace6
+bindsym $mod+7 workspace $workspace7
+bindsym $mod+8 workspace $workspace8
+bindsym $mod+9 workspace $workspace9
+bindsym $mod+0 workspace $workspace10
+
+# move focused container to workspace
+bindsym $mod+Shift+1 move container to workspace $workspace1
+bindsym $mod+Shift+2 move container to workspace $workspace2
+bindsym $mod+Shift+3 move container to workspace $workspace3
+bindsym $mod+Shift+4 move container to workspace $workspace4
+bindsym $mod+Shift+5 move container to workspace $workspace5
+bindsym $mod+Shift+6 move container to workspace $workspace6
+bindsym $mod+Shift+7 move container to workspace $workspace7
+bindsym $mod+Shift+8 move container to workspace $workspace8
+bindsym $mod+Shift+9 move container to workspace $workspace9
+bindsym $mod+Shift+0 move container to workspace $workspace10
+
+
+assign [class="subl3"] $workspace5
+assign [class="jetbrains-idea"] $workspace5
+assign [class="steam"] $workspace6
+assign [class="code-oss"] $workspace5
+assign [class="discord"] $workspace9
+assign [class="steam"] $workspace10
+assign [class="Zathura"] $workspace7
+assign [class="jetbrains-toolbox"] $workspace5
+assign [class="brave-browser"] $workspace2
+
+# reload the configuration file
+bindsym $mod+Shift+c reload
+# restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
+bindsym $mod+Shift+r restart
+# exit i3 (logs you out of your X session)
+bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
+
+# resize window (you can also use the mouse for that)
+
+bindsym $mod+Shift+Right resize shrink width 10 px or 10 ppt
+bindsym $mod+Shift+Up resize grow height 10 px or 10 ppt
+bindsym $mod+Shift+Down resize shrink height 10 px or 10 ppt
+bindsym $mod+Shift+Left resize grow width 10 px or 10 ppt
+
+mode "resize" {
+        # These bindings trigger as soon as you enter the resize mode
+
+        # Pressing left will shrink the window’s width.
+        # Pressing right will grow the window’s width.
+        # Pressing up will shrink the window’s height.
+        # Pressing down will grow the window’s height.
+        bindsym j resize shrink width 10 px or 10 ppt
+        bindsym k resize grow height 10 px or 10 ppt
+        bindsym l resize shrink height 10 px or 10 ppt
+        bindsym odiaeresis resize grow width 10 px or 10 ppt
+
+        # same bindings, but for the arrow keys
+        bindsym Left resize shrink width 10 px or 10 ppt
+        bindsym Down resize grow height 10 px or 10 ppt
+        bindsym Up resize shrink height 10 px or 10 ppt
+        bindsym Right resize grow width 10 px or 10 ppt
+
+        # back to normal: Enter or Escape
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+}
+
+bindsym $mod+r mode "resize"
+
+set $bg-color 	         #3c3836
+set $active-color        #32302f
+set $inactive-bg-color   #3c3836
+set $text-color          #ebdbb2
+set $active-text-color   #ffffff
+set $inactive-text-color #ebdbb2
+set $urgent-bg-color     #E53935
+set $bordercolor1       #a89984
+set $bordercolor2       #928374
+
+# window colors
+#                       border              background         text                 indicator
+client.focused          #a89984	            #5F5959            #ebdbb2              #a89984
+client.unfocused        #928374             #3c3836            #ebdbb2              #3c3836
+client.focused_inactive #928374             #3c3836            #ebdbb2              #3c3836
+client.urgent           #928374             #E53935            #ebdbb2              #3c3836
+client.background       #928374
+
+default_border pixel 2
+hide_edge_borders none
+
+###bar###
+
+#bar {
+#        status_command i3blocks -c ~/.config/i3/i3blocks.conf
+#       colors {
+#		background $bg-color
+#	    separator #757575
+#		#                  border             background         text
+#		focused_workspace  $active-color      $active-color      $active-text-color
+#		inactive_workspace $inactive-bg-color $inactive-bg-color $inactive-text-color
+#		urgent_workspace   $urgent-bg-color   $urgent-bg-color   $text-color
+#       }
+#        font pango:System San Francisco Display 10
+#        position top
+#}
+bindsym $mod+shift+b exec sh ~/.config/tint2/launch.sh;exec polybar-msg cmd show
+bindsym $mod+b exec polybar-msg cmd hide;exec killall tint2
+#gaps top all set 0
+bindsym $mod+shift+x exec i3lock-fancy-multimonitor -p
+bindsym $mod+c exec code
+bindsym $mod+shift+f exec brave
+bindsym $mod+d exec rofi -show run -theme blackd
+bindsym Mod1+r exec brave https://www.reddit.com
+bindsym $mod+i exec idea
+
+# Pulse Audio controls
+bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume 0 +5% #increase sound volume
+bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume 0 -5% #decrease sound volume
+bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle # mute sound
+bindsym $mod+F3 exec --no-startup-id pactl set-sink-volume 1 +2% #increase sound volume headset
+bindsym $mod+F2 exec --no-startup-id pactl set-sink-volume 1 -2% #decrease sound volume headset
+bindsym $mod+F1 exec --no-startup-id pactl set-sink-mute 1 toggle #mute sound headset
+bindsym XF86AudioPrev exec --no-startup-id playerctl previous
+bindsym XF86AudioPlay exec --no-startup-id playerctl play-pause
+bindsym XF86AudioNext exec --no-startup-id playerctl next
+
+# Hibernate
+bindsym $mod+F4		exec systemctl hibernate
+bindsym Mod1+F4     exec sn
+
+exec_always --no-startup-id setxkbmap us altgr-intl
+#exec_always --no-startup-id setxkbmap de
+exec_always --no-startup-id feh --bg-fill -d ~/Pictures/Wallpapers/City.jpg  ~/Pictures/Wallpapers/Portrait1.png  ~/Pictures/Wallpapers/City.jpg
+exec_always --no-startup-id picom -b --config ~/.config/compton.conf
+exec_always --no-startup-id sh ~/.config/dunst/launch.sh
+exec_always --no-startup-id sh ~/.screenlayout/standard.sh
+#exec_always --no-startup-id sh ~/.screenlayout/dual.sh
+exec_always --no-startup-id /usr/lib/kdeconnectd
+exec_always --no-startup-id kdeconnect-indicator
+exec_always --no-startup-id sh ~/.config/polybar/launch.sh
+exec_always --no-startup-id sh ~/.config/tint2/launch.sh
+exec_always --no-startup-id sh ~/.config/i3/redshift.sh
+
+#ScreenLayout
+bindsym $mod+shift+p exec --no-startup-id sh ~/.config/screenlayout/dualmonitor.sh;exec xinput --set-prop 17 308 -1
+bindsym $mod+p exec --no-startup-id sh ~/.config/screenlayout/laptop.sh
+
+#GAPS
+
+gaps inner 3
+gaps outer 0 
+gaps top 0
+
+#floating
+floating_maximum_size -1 x -1
+
+# take a screenshot of a screen region and copy it to a clipboard
+bindsym --release Shift+Print exec "sh /home/jast/.scripts/scregcp -s /home/jast/Pictures/screenshots/"
+
+# take a screenshot of a whole window and copy it to a clipboard
+bindsym --release Print exec "sh /home/jast/.scripts/scregcp /home/jast/Pictures/screenshots/"
+
+new_window pixel 2
+new_float normal
+for_window [urgent=latest] focus
+
+for_window [class="[.]*"] border pixel 2
+for_window [window_role="pop-up"] floating enable
+for_window [window_role="task_dialog"] floating enable
+for_window [instance="float"] floating enable
+for_window [class="Firefox" title="About Mozilla Firefox"] floating enable
+for_window [class="Firefox" class="Navigator"] floating enable
+for_window [class="mupdf"] floating enable
+for_window [class="Pavucontrol"] floating enable
+for_window [class="Cisco AnyConnect Secure Mobility Client"] floating enable
+#for_window [class="jetbrains-toolbox"] floating enable move down 500px
+for_window [class= "Firefox"] border pixel 0
+# vim:filetype=i3

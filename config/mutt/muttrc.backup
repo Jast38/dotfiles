@@ -1,0 +1,23 @@
+set realname = "Jannick Stuby"
+set from = "Jannick.Stuby@gmail.com"
+set use_from = yes
+set envelope_from = yes
+
+
+set smtp_url = "smtp://Jannick.Stuby@gmail.com@smtp.gmail.com:587/"
+set smtp_pass = "aevzssrdphjngddq"
+set imap_user = "Jannick.Stuby@gmail.com"
+set imap_pass = "aevzssrdphjngddq"
+set folder = "imaps://imap.gmail.com:993"
+set spoolfile = "+INBOX"
+set ssl_starttls = yes
+
+set record = "+Sent"
+set trash = "+Trash"
+set postponed = "+Drafts"
+
+mailboxes =INBOX = Sent = Drafts = Junk
+
+bind index G imap-fetch-mail
+set editor = "nvim"
+set charset = "utf-8"

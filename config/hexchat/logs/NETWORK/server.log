@@ -1,0 +1,95 @@
+**** BEGIN LOGGING AT Fri May 24 14:45:54 2019
+
+May 24 14:45:54 Lua version 1.3/5.3 loaded.
+May 24 14:45:54 Sysinfo plugin loaded
+May 24 14:45:54 Python interface loaded
+May 24 14:45:54 Perl interface loaded
+May 24 14:45:54 Checksum plugin loaded
+May 24 14:45:54 FiSHLiM plugin loaded
+**** BEGIN LOGGING AT Fri May 24 14:47:06 2019
+
+May 24 14:47:06 Lua version 1.3/5.3 loaded.
+May 24 14:47:06 Sysinfo plugin loaded
+May 24 14:47:06 Python interface loaded
+May 24 14:47:06 Perl interface loaded
+May 24 14:47:06 Checksum plugin loaded
+May 24 14:47:06 FiSHLiM plugin loaded
+May 24 14:47:06 *	Looking up irc.selfnet.de
+May 24 14:47:06 *	Connecting to irc.selfnet.de (2001:7c7:2100:400::41:6667)
+May 24 14:47:06 *	Connected. Now logging in.
+May 24 14:47:06 *	*** Looking up your hostname
+May 24 14:47:06 *	*** Checking Ident
+May 24 14:47:06 *	*** No ident response
+May 24 14:47:06 *	*** Couldn't look up your hostname
+May 24 14:47:06 *	Welcome to the Selfnet IRC Network, jast
+May 24 14:47:06 *	Your host is irc-3.Selfnet.de, running version u2.10.12.pre13-OGN3
+May 24 14:47:06 *	This server was created Thu Oct 20 2016 at 17:35:13 CEST
+May 24 14:47:06 *	irc-3.Selfnet.de u2.10.12.pre13-OGN3 dioswkgxnIXSHc AcCbiklmMnopstUvrDRz AbkloUv
+May 24 14:47:06 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=30 :are supported by this server
+May 24 14:47:06 *	MAXNICKLEN=30 TOPICLEN=500 AWAYLEN=300 KICKLEN=500 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=# PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,AkU,l,cCimMnpstrDdRz CASEMAPPING=rfc1459 NETWORK=Selfnet :are supported by this server
+May 24 14:47:06 *	There are 21 users and 17 invisible on 4 servers
+May 24 14:47:06 *	5 :operator(s) online
+May 24 14:47:06 *	9 :channels formed
+May 24 14:47:06 *	I have 8 clients and 1 servers
+May 24 14:47:06 *	Highest connection count: 12 (11 clients)
+May 24 14:47:06 *	- irc-3.Selfnet.de Message of the Day - 
+May 24 14:47:06 *	TRUE
+May 24 14:47:06 *	Type /MOTD to read the AUP before continuing using this service.
+May 24 14:47:06 *	The message of the day was last changed: 2014-11-27 19:0
+May 24 14:47:06 *	End of /MOTD command.
+May 24 14:47:06 *	on 1 ca 2(4) ft 20(20)
+May 24 14:47:06 *	Your connection class is: Other
+May 24 14:47:06 *	You may join 20 channels.
+**** ENDING LOGGING AT Fri May 24 14:47:06 2019
+
+**** BEGIN LOGGING AT Sat Apr 25 11:44:31 2020
+
+Apr 25 11:44:31 Lua version 1.3/5.3 loaded.
+Apr 25 11:44:31 Sysinfo plugin loaded
+Apr 25 11:44:31 Python interface loaded
+Apr 25 11:44:31 Perl interface loaded
+Apr 25 11:44:31 Checksum plugin loaded
+Apr 25 11:44:31 FiSHLiM plugin loaded
+Apr 25 11:44:31 *	Looking up irc.selfnet.de
+Apr 25 11:44:35 *	Connecting to irc.selfnet.de (141.70.126.75:6667)
+Apr 25 11:44:35 *	Connected. Now logging in.
+Apr 25 11:44:35 *	*** Looking up your hostname
+Apr 25 11:44:35 *	*** Checking Ident
+Apr 25 11:44:38 *	*** Found your hostname
+Apr 25 11:44:44 *	*** No ident response
+**** ENDING LOGGING AT Sat Apr 25 11:44:44 2020
+
+**** BEGIN LOGGING AT Mon Apr 27 10:05:47 2020
+
+Apr 27 10:05:47 Lua version 1.3/5.3 loaded.
+Apr 27 10:05:47 Sysinfo plugin loaded
+Apr 27 10:05:47 Python interface loaded
+Apr 27 10:05:47 Perl interface loaded
+Apr 27 10:05:47 Checksum plugin loaded
+Apr 27 10:05:47 FiSHLiM plugin loaded
+Apr 27 10:05:47 *	Looking up irc.selfnet.de
+Apr 27 10:05:50 *	Connecting to irc.selfnet.de (141.70.126.75:6667)
+Apr 27 10:05:50 *	Connected. Now logging in.
+Apr 27 10:05:50 *	*** Looking up your hostname
+Apr 27 10:05:50 *	*** Checking Ident
+Apr 27 10:05:53 *	*** Found your hostname
+Apr 27 10:06:00 *	*** No ident response
+**** ENDING LOGGING AT Mon Apr 27 10:06:00 2020
+
+**** BEGIN LOGGING AT Sun Jun 14 20:22:55 2020
+
+Jun 14 20:22:55 Lua version 1.3/5.3 loaded.
+Jun 14 20:22:55 Sysinfo plugin loaded
+Jun 14 20:22:55 Python interface loaded
+Jun 14 20:22:55 Perl interface loaded
+Jun 14 20:22:55 Checksum plugin loaded
+Jun 14 20:22:55 FiSHLiM plugin loaded
+Jun 14 20:22:55 *	Looking up irc.selfnet.de
+Jun 14 20:22:55 *	Connecting to irc.selfnet.de (141.70.126.42:6667)
+Jun 14 20:22:55 *	Connected. Now logging in.
+Jun 14 20:22:55 *	*** Looking up your hostname
+Jun 14 20:22:55 *	*** Checking Ident
+Jun 14 20:22:55 *	*** No ident response
+Jun 14 20:22:55 *	*** Found your hostname
+**** ENDING LOGGING AT Sun Jun 14 20:22:55 2020
+

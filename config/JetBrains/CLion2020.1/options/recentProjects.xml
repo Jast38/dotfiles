@@ -1,0 +1,39 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Documents/Uni/Vorlesungen/Semester4/ss20syswebsec/untitled1">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1biLEsNzR0RdOZlYSGgVtO0dLKT">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-201.7223.86" />
+              <option name="buildTimestamp" value="1588163763701" />
+              <frame x="1922" y="420" width="1916" height="1078" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1591258807761" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/propa3">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1cqbC1JClWHx2aAFBDoCOYdlfr8">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-201.7846.88" />
+              <option name="buildTimestamp" value="1591174795755" />
+              <frame x="2" y="428" width="1916" height="1070" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1594905361484" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/CLionProjects" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/CLionProjects/propa3" />
+        <option value="$USER_HOME$/Documents/Uni/Vorlesungen/Semester4/ss20syswebsec/untitled1" />
+      </list>
+    </option>
+  </component>
+</application>

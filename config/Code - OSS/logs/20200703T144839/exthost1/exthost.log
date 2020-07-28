@@ -1,0 +1,147 @@
+[2020-07-03 14:48:40.444] [exthost] [info] extension host started
+[2020-07-03 14:48:40.467] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-07-03 14:48:40.467] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/extension
+[2020-07-03 14:48:40.470] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-07-03 14:48:40.470] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/extension-editing/dist/extension
+[2020-07-03 14:48:40.475] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-07-03 14:48:40.475] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2020-07-03 14:48:40.484] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onLanguage:json"}
+[2020-07-03 14:48:40.484] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2020-07-03 14:48:40.658] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2020-07-03 14:48:40.658] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/npm/dist/main
+[2020-07-03 14:48:40.661] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-07-03 14:48:40.661] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-07-03 14:48:40.662] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-07-03 14:48:40.662] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-07-03 14:48:40.667] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-03 14:48:40.667] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-07-03 14:48:40.677] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-07-03 14:48:40.678] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github-authentication/dist/extension.js
+[2020-07-03 14:48:40.680] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-07-03 14:48:40.680] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-07-03 14:48:40.681] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-07-03 14:48:40.681] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/microsoft-authentication/dist/extension.js
+[2020-07-03 14:48:40.683] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-07-03 14:48:40.683] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2020-07-03 14:48:40.684] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-07-03 14:48:40.684] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jast/.vscode-oss/extensions/pkief.material-icon-theme-4.2.0/dist/extension
+[2020-07-03 14:48:40.687] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme {"startup":true,"extensionId":{"value":"zhuangtongfa.material-theme","_lower":"zhuangtongfa.material-theme"},"activationEvent":"*"}
+[2020-07-03 14:48:40.687] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jast/.vscode-oss/extensions/zhuangtongfa.material-theme-3.8.2/out/extension.js
+[2020-07-03 14:48:40.827] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-03 14:48:40.828] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2020-07-03 14:48:40.846] [exthost] [info] eager extensions activated
+[2020-07-03 14:48:56.096] [exthost] [info] extension host started
+[2020-07-03 14:48:56.117] [exthost] [info] ExtensionService#_doActivateExtension James-Yu.latex-workshop {"startup":false,"extensionId":{"value":"James-Yu.latex-workshop","_lower":"james-yu.latex-workshop"},"activationEvent":"onLanguage:latex"}
+[2020-07-03 14:48:56.117] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/out/src/main.js
+[2020-07-03 14:48:56.464] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-07-03 14:48:56.464] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-07-03 14:48:56.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-07-03 14:48:56.466] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-07-03 14:48:56.470] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-03 14:48:56.470] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-07-03 14:48:56.487] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-07-03 14:48:56.487] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github-authentication/dist/extension.js
+[2020-07-03 14:48:56.495] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-07-03 14:48:56.495] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-07-03 14:48:56.496] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-07-03 14:48:56.496] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/microsoft-authentication/dist/extension.js
+[2020-07-03 14:48:56.499] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-07-03 14:48:56.499] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2020-07-03 14:48:56.499] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-07-03 14:48:56.499] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jast/.vscode-oss/extensions/pkief.material-icon-theme-4.2.0/dist/extension
+[2020-07-03 14:48:56.502] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme {"startup":true,"extensionId":{"value":"zhuangtongfa.material-theme","_lower":"zhuangtongfa.material-theme"},"activationEvent":"*"}
+[2020-07-03 14:48:56.502] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jast/.vscode-oss/extensions/zhuangtongfa.material-theme-3.8.2/out/extension.js
+[2020-07-03 14:48:56.764] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-03 14:48:56.764] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2020-07-03 14:48:56.861] [exthost] [info] eager extensions activated
+[2020-07-03 18:04:24.372] [exthost] [error] [James-Yu.latex-workshop] provider FAILED
+[2020-07-03 18:04:24.372] [exthost] [error] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:04:28.015] [exthost] [error] [James-Yu.latex-workshop] provider FAILED
+[2020-07-03 18:04:28.015] [exthost] [error] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:04:28.688] [exthost] [error] [James-Yu.latex-workshop] provider FAILED
+[2020-07-03 18:04:28.688] [exthost] [error] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:04:31.515] [exthost] [error] [James-Yu.latex-workshop] provider FAILED
+[2020-07-03 18:04:31.515] [exthost] [error] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:04:33.917] [exthost] [error] [James-Yu.latex-workshop] provider FAILED
+[2020-07-03 18:04:33.917] [exthost] [error] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:04:37.976] [exthost] [error] [James-Yu.latex-workshop] provider FAILED
+[2020-07-03 18:04:37.976] [exthost] [error] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:04:49.724] [exthost] [error] [James-Yu.latex-workshop] provider FAILED
+[2020-07-03 18:04:49.724] [exthost] [error] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:04:49.922] [exthost] [error] [James-Yu.latex-workshop] provider FAILED
+[2020-07-03 18:04:49.922] [exthost] [error] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:04:50.839] [exthost] [error] [James-Yu.latex-workshop] provider FAILED
+[2020-07-03 18:04:50.839] [exthost] [error] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:04:56.311] [exthost] [error] [James-Yu.latex-workshop] provider FAILED
+[2020-07-03 18:04:56.311] [exthost] [error] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:05:28.646] [exthost] [error] [James-Yu.latex-workshop] provider FAILED
+[2020-07-03 18:05:28.646] [exthost] [error] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:22:44.513] [exthost] [error] [James-Yu.latex-workshop] provider FAILED
+[2020-07-03 18:22:44.513] [exthost] [error] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[2020-07-03 18:22:44.910] [exthost] [error] [James-Yu.latex-workshop] provider FAILED
+[2020-07-03 18:22:44.910] [exthost] [error] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)

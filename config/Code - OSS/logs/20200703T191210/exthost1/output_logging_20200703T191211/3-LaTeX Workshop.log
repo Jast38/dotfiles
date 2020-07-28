@@ -1,0 +1,32 @@
+[19:12:11] Initializing LaTeX Workshop.
+[19:12:11] Creating PDF file watcher.
+[19:12:11] Creating LaTeX Workshop http and websocket server.
+[19:12:11] LaTeX Workshop initialized.
+[19:12:11] Server created on 127.0.0.1:38255
+[19:12:11] Snippet data loaded.
+[19:12:11] LaTeX Workshop version: 8.11.1
+[19:12:12] Found files that might be root, choose the first one: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[19:12:12] Root file changed: from undefined to /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[19:12:12] Start to find all dependencies.
+[19:12:12] Instantiating a new file watcher for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[19:12:12] Creating Bib file watcher.
+[19:12:12] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[19:12:12] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[19:12:12] Parse fls file.
+[19:12:12] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[19:12:12] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[19:12:12] Parse fls file.
+[19:12:12] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.fls
+[19:12:12] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem3.tex
+[19:12:12] Parse fls file.
+[19:12:12] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem3.fls
+[19:12:12] Parse fls file.
+[19:12:12] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[19:12:12] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[19:12:12] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[19:12:12] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[19:12:12] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem3.tex
+[19:12:12] Handle data type: open
+[19:12:12] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[19:12:12] Handle data type: request_params
+[19:12:12] Handle data type: loaded

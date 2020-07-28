@@ -1,0 +1,32 @@
+[11:55:11] Initializing LaTeX Workshop.
+[11:55:11] Creating PDF file watcher.
+[11:55:11] Creating LaTeX Workshop http and websocket server.
+[11:55:11] LaTeX Workshop initialized.
+[11:55:11] Server created on 127.0.0.1:36707
+[11:55:11] LaTeX Workshop version: 8.11.1
+[11:55:11] Snippet data loaded.
+[11:55:12] Found root file from parent: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[11:55:12] Root file changed: from undefined to /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[11:55:12] Start to find all dependencies.
+[11:55:12] Instantiating a new file watcher for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[11:55:12] Creating Bib file watcher.
+[11:55:12] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[11:55:12] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[11:55:12] Parse fls file.
+[11:55:12] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[11:55:12] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.tex
+[11:55:12] Parse fls file.
+[11:55:12] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.fls
+[11:55:12] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.tex
+[11:55:12] Parse fls file.
+[11:55:12] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.fls
+[11:55:12] Parse fls file.
+[11:55:12] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[11:55:12] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[11:55:12] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[11:55:12] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.tex
+[11:55:12] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.tex
+[11:55:12] Handle data type: open
+[11:55:12] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[11:55:12] Handle data type: request_params
+[11:55:12] Handle data type: loaded

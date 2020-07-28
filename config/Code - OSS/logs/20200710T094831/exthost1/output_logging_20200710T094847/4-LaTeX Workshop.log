@@ -1,0 +1,1367 @@
+[09:48:47] Initializing LaTeX Workshop.
+[09:48:47] Creating PDF file watcher.
+[09:48:47] Creating LaTeX Workshop http and websocket server.
+[09:48:47] LaTeX Workshop initialized.
+[09:48:47] Server created on 127.0.0.1:42287
+[09:48:47] Snippet data loaded.
+[09:48:47] LaTeX Workshop version: 8.11.1
+[09:48:47] Found files that might be root, choose the first one: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:48:47] Root file changed: from undefined to /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:48:47] Start to find all dependencies.
+[09:48:47] Instantiating a new file watcher for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:48:47] Creating Bib file watcher.
+[09:48:47] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:48:47] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:48:47] Parse fls file.
+[09:48:47] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:48:47] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.tex
+[09:48:47] Parse fls file.
+[09:48:47] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.fls
+[09:48:47] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.tex
+[09:48:47] Parse fls file.
+[09:48:47] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.fls
+[09:48:47] Parse fls file.
+[09:48:47] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:48:47] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:48:47] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:48:47] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.tex
+[09:48:47] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.tex
+[09:49:04] BUILD command invoked.
+[09:49:04] Found files that might be root, choose the first one: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:49:04] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:49:04] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:49:04] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:49:04] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:49:04] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:49:04] LaTeX build process spawned. PID: 72655.
+[09:49:06] LaTeX log parsed with 0 messages.
+[09:49:06] Recipe of length 1 finished. PID: 72655.
+[09:49:06] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:49:06] No PDF viewer connected for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:49:06] Parse fls file.
+[09:49:06] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:49:06] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[09:49:06] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/mystyle.sty
+[09:49:06] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/images/1a.jpeg
+[09:49:06] VIEW command invoked.
+[09:49:06] Found files that might be root, choose the first one: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:49:06] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:49:06] Serving PDF file at http://localhost:42287/viewer.html?file=pdf..JTJGaG9tZSUyRmphc3QlMkZEb2N1bWVudHMlMkZVbmklMkZWb3JsZXN1bmdlbiUyRlNlbWVzdGVyNCUyRnNzMjBybjElMkZCbGF0dDUlMkZCbGF0dDUlMkZSTjFfSW5hblJhbWFTdHVieV9CbGF0dDUucGRm
+[09:49:06] The encoded path is /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:49:06] Open PDF tab for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:49:07] Handle data type: open
+[09:49:07] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:49:07] Handle data type: request_params
+[09:49:07] Found files that might be root, choose the first one: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:49:07] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:49:07] Handle data type: loaded
+[09:49:13] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:49:13] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:49:17] Found files that might be root, choose the first one: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:49:17] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:49:20] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:49:21] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:49:21] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:49:24] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:49:24] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:49:26] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:49:41] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:49:41] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:49:41] Parse fls file.
+[09:49:41] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:49:41] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:49:41] BUILD command invoked.
+[09:49:41] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:49:41] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:49:41] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:49:41] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:49:41] LaTeX build process spawned. PID: 73625.
+[09:49:41] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.tex
+[09:49:41] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.tex
+[09:49:41] Parse fls file.
+[09:49:41] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.fls
+[09:49:41] Auto Build Run is temporarily disabled during a second.
+[09:49:41] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.tex
+[09:49:41] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.tex
+[09:49:41] Parse fls file.
+[09:49:41] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.fls
+[09:49:41] Auto Build Run is temporarily disabled during a second.
+[09:49:42] LaTeX log parsed with 0 messages.
+[09:49:42] Recipe of length 1 finished. PID: 73625.
+[09:49:42] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:49:42] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:49:42] Parse fls file.
+[09:49:42] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:49:42] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[09:49:42] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:49:42] Handle data type: loaded
+[09:49:54] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:49:54] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:49:54] Parse fls file.
+[09:49:54] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:49:54] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:49:54] BUILD command invoked.
+[09:49:54] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:49:54] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:49:54] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:49:54] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:49:54] LaTeX build process spawned. PID: 73927.
+[09:49:55] LaTeX log parsed with 0 messages.
+[09:49:55] Recipe of length 1 finished. PID: 73927.
+[09:49:55] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:49:55] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:49:55] Parse fls file.
+[09:49:55] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:49:55] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[09:49:55] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:49:55] Handle data type: loaded
+[09:50:20] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:50:20] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:50:20] Parse fls file.
+[09:50:20] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:50:20] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:50:20] BUILD command invoked.
+[09:50:20] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:50:20] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:50:20] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:50:20] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:50:20] LaTeX build process spawned. PID: 74428.
+[09:50:20] LaTeX log parsed with 0 messages.
+[09:50:20] Recipe of length 1 finished. PID: 74428.
+[09:50:20] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:50:20] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:50:20] Parse fls file.
+[09:50:20] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:50:20] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[09:50:20] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:50:20] Handle data type: loaded
+[09:50:22] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:50:22] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:50:22] Parse fls file.
+[09:50:22] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:50:22] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:50:22] BUILD command invoked.
+[09:50:22] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:50:22] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:50:22] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:50:22] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:50:22] LaTeX build process spawned. PID: 74518.
+[09:50:23] Recipe of length 1 finished. PID: 74518.
+[09:50:23] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:50:34] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:50:34] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:50:34] Parse fls file.
+[09:50:34] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:50:34] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:50:34] BUILD command invoked.
+[09:50:34] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:50:34] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:50:34] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:50:34] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:50:34] LaTeX build process spawned. PID: 74731.
+[09:50:34] LaTeX log parsed with 0 messages.
+[09:50:34] Recipe of length 1 finished. PID: 74731.
+[09:50:34] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:50:34] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:50:34] Parse fls file.
+[09:50:34] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:50:34] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[09:50:34] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:50:34] Handle data type: loaded
+[09:51:18] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:51:18] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:51:18] Parse fls file.
+[09:51:18] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:51:18] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:51:18] BUILD command invoked.
+[09:51:18] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:51:18] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:51:18] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:51:18] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:51:18] LaTeX build process spawned. PID: 75638.
+[09:51:18] LaTeX log parsed with 0 messages.
+[09:51:18] Recipe of length 1 finished. PID: 75638.
+[09:51:18] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:51:18] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:51:18] Parse fls file.
+[09:51:18] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:51:18] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[09:51:18] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:51:18] Handle data type: loaded
+[09:51:25] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:51:25] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:51:25] Parse fls file.
+[09:51:25] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:51:25] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:51:25] BUILD command invoked.
+[09:51:25] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:51:25] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:51:25] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:51:25] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:51:25] LaTeX build process spawned. PID: 75821.
+[09:51:25] LaTeX log parsed with 0 messages.
+[09:51:25] Recipe of length 1 finished. PID: 75821.
+[09:51:25] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:51:25] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:51:25] Parse fls file.
+[09:51:25] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:51:25] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[09:51:25] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:51:25] Handle data type: loaded
+[09:51:42] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:51:46] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:51:46] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:51:46] Parse fls file.
+[09:51:46] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:51:46] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:51:46] BUILD command invoked.
+[09:51:46] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:51:46] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:51:46] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:51:46] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:51:46] LaTeX build process spawned. PID: 76305.
+[09:51:47] LaTeX log parsed with 0 messages.
+[09:51:47] Recipe of length 1 finished. PID: 76305.
+[09:51:47] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:51:47] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:51:47] Parse fls file.
+[09:51:47] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:51:47] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[09:51:47] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:51:47] Handle data type: loaded
+[09:52:29] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:52:29] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:52:29] Parse fls file.
+[09:52:29] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:52:29] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:52:29] BUILD command invoked.
+[09:52:29] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:52:29] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:52:29] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:52:29] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:52:29] LaTeX build process spawned. PID: 77181.
+[09:52:29] LaTeX log parsed with 0 messages.
+[09:52:29] Recipe of length 1 finished. PID: 77181.
+[09:52:29] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:52:29] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:52:29] Parse fls file.
+[09:52:29] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:52:29] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[09:52:29] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:52:29] Handle data type: loaded
+[09:52:56] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:52:56] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:52:56] Parse fls file.
+[09:52:56] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:52:56] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:52:56] BUILD command invoked.
+[09:52:56] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:52:56] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:52:56] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:52:56] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:52:56] LaTeX build process spawned. PID: 77723.
+[09:52:56] LaTeX log parsed with 0 messages.
+[09:52:56] Recipe of length 1 finished. PID: 77723.
+[09:52:56] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:52:56] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:52:56] Parse fls file.
+[09:52:56] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:52:56] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[09:52:56] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:52:56] Handle data type: loaded
+[09:53:09] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:53:09] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:53:09] Parse fls file.
+[09:53:09] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:53:09] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:53:09] BUILD command invoked.
+[09:53:09] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:53:09] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:53:09] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:53:09] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:53:09] LaTeX build process spawned. PID: 78025.
+[09:53:10] LaTeX log parsed with 0 messages.
+[09:53:10] Recipe of length 1 finished. PID: 78025.
+[09:53:10] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:53:10] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:53:10] Parse fls file.
+[09:53:10] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:53:10] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[09:53:10] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:53:10] Handle data type: loaded
+[09:54:12] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:54:12] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:54:12] Parse fls file.
+[09:54:12] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:54:12] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:54:12] BUILD command invoked.
+[09:54:12] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:54:12] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:54:12] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:54:12] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:54:12] LaTeX build process spawned. PID: 79446.
+[09:54:13] LaTeX log parsed with 1 messages.
+[09:54:13] Recipe of length 1 finished. PID: 79446.
+[09:54:13] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:54:13] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:54:13] Parse fls file.
+[09:54:13] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:54:13] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[09:54:13] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:54:13] Handle data type: loaded
+[09:54:35] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:54:35] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:54:35] Parse fls file.
+[09:54:35] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:54:35] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:54:35] BUILD command invoked.
+[09:54:35] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:54:35] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:54:35] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:54:35] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:54:35] LaTeX build process spawned. PID: 79943.
+[09:54:35] LaTeX log parsed with 1 messages.
+[09:54:35] Recipe of length 1 finished. PID: 79943.
+[09:54:35] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:54:35] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:54:35] Parse fls file.
+[09:54:35] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:54:35] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[09:54:35] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:54:35] Handle data type: loaded
+[09:54:45] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:54:45] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:54:45] Parse fls file.
+[09:54:45] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:54:45] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:54:45] BUILD command invoked.
+[09:54:45] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:54:45] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:54:45] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:54:45] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:54:45] LaTeX build process spawned. PID: 80160.
+[09:54:45] LaTeX log parsed with 0 messages.
+[09:54:45] Recipe of length 1 finished. PID: 80160.
+[09:54:45] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:54:45] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:54:45] Parse fls file.
+[09:54:45] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:54:45] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[09:54:45] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:54:45] Handle data type: loaded
+[09:55:07] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:55:07] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:55:07] Parse fls file.
+[09:55:07] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:55:07] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:55:07] BUILD command invoked.
+[09:55:07] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:55:07] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:55:07] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:55:07] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:55:07] LaTeX build process spawned. PID: 80653.
+[09:55:07] LaTeX log parsed with 0 messages.
+[09:55:07] Recipe of length 1 finished. PID: 80653.
+[09:55:07] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:55:07] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:55:07] Parse fls file.
+[09:55:07] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:55:07] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[09:55:07] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:55:07] Handle data type: loaded
+[09:55:43] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:55:43] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:55:43] Parse fls file.
+[09:55:43] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:55:43] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:55:43] BUILD command invoked.
+[09:55:43] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:55:43] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:55:43] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:55:43] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:55:43] LaTeX build process spawned. PID: 81394.
+[09:55:43] LaTeX log parsed with 0 messages.
+[09:55:43] Recipe of length 1 finished. PID: 81394.
+[09:55:43] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:55:43] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:55:43] Parse fls file.
+[09:55:43] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:55:43] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[09:55:43] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:55:43] Handle data type: loaded
+[09:56:03] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:56:03] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:56:03] Parse fls file.
+[09:56:03] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:56:03] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:56:03] BUILD command invoked.
+[09:56:03] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:56:03] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:56:03] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:56:03] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:56:03] LaTeX build process spawned. PID: 81825.
+[09:56:03] LaTeX log parsed with 0 messages.
+[09:56:03] Recipe of length 1 finished. PID: 81825.
+[09:56:03] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:56:03] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:56:03] Parse fls file.
+[09:56:03] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:56:03] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[09:56:03] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:56:03] Handle data type: loaded
+[09:56:43] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:56:43] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:56:43] Parse fls file.
+[09:56:43] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:56:43] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:56:43] BUILD command invoked.
+[09:56:43] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:56:43] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:56:43] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:56:43] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:56:43] LaTeX build process spawned. PID: 82668.
+[09:56:43] LaTeX log parsed with 0 messages.
+[09:56:43] Recipe of length 1 finished. PID: 82668.
+[09:56:43] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:56:43] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:56:43] Parse fls file.
+[09:56:43] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:56:43] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[09:56:43] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:56:43] Handle data type: loaded
+[09:57:06] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:57:06] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:57:06] Parse fls file.
+[09:57:06] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[09:57:06] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[09:57:06] BUILD command invoked.
+[09:57:06] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:57:06] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[09:57:06] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[09:57:06] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[09:57:06] LaTeX build process spawned. PID: 83140.
+[09:57:07] LaTeX log parsed with 0 messages.
+[09:57:07] Recipe of length 1 finished. PID: 83140.
+[09:57:07] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[09:57:07] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:57:07] Parse fls file.
+[09:57:07] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[09:57:07] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[09:57:07] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[09:57:07] Handle data type: loaded
+[09:59:44] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:00:02] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:00:02] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:00:02] Parse fls file.
+[10:00:02] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:00:02] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:00:02] BUILD command invoked.
+[10:00:02] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:00:02] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:00:02] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:00:02] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:00:02] LaTeX build process spawned. PID: 87544.
+[10:00:02] LaTeX log parsed with 0 messages.
+[10:00:02] Recipe of length 1 finished. PID: 87544.
+[10:00:02] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:00:02] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:00:02] Parse fls file.
+[10:00:02] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:00:02] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:00:02] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:00:03] Handle data type: loaded
+[10:01:02] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:01:02] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:01:02] Parse fls file.
+[10:01:02] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:01:02] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:01:02] BUILD command invoked.
+[10:01:02] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:01:02] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:01:02] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:01:02] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:01:02] LaTeX build process spawned. PID: 88840.
+[10:01:03] LaTeX log parsed with 0 messages.
+[10:01:03] Recipe of length 1 finished. PID: 88840.
+[10:01:03] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:01:03] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:01:03] Parse fls file.
+[10:01:03] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:01:03] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:01:03] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:01:03] Handle data type: loaded
+[10:01:07] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:01:07] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:01:07] Parse fls file.
+[10:01:07] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:01:07] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:01:07] BUILD command invoked.
+[10:01:07] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:01:07] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:01:07] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:01:07] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:01:07] LaTeX build process spawned. PID: 88975.
+[10:01:08] LaTeX log parsed with 0 messages.
+[10:01:08] Recipe of length 1 finished. PID: 88975.
+[10:01:08] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:01:08] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:01:08] Parse fls file.
+[10:01:08] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:01:08] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:01:08] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:01:08] Handle data type: loaded
+[10:02:03] 
+[10:02:03] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[10:02:03] Error when MathJax is rendering 
+\textcolor{blue}{{\color{#ffffff}\!|\!}10001110.00001101.00111101.00000011
+[10:02:04] 
+[10:02:04] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[10:02:04] Error when MathJax is rendering 
+\textcolor{blue}{{\color{#ffffff}\!|\!}10001110.00001101.00111101.00000011
+[10:02:04] 
+[10:02:04] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[10:02:04] Error when MathJax is rendering 
+\textcolor{blue}{{\color{#ffffff}\!|\!}10001110.00001101.00111101.00000011
+[10:02:05] 
+[10:02:05] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[10:02:05] Error when MathJax is rendering 
+\textcolor{blue}{{\color{#ffffff}\!|\!}10001110.00001101.00111101.00000011
+[10:02:05] 
+[10:02:05] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[10:02:05] Error when MathJax is rendering 
+\textcolor{blue}{{\color{#ffffff}\!|\!}10001110.00001101.00111101.00000011
+[10:02:06] 
+[10:02:06] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[10:02:06] Error when MathJax is rendering 
+\textcolor{blue}{{\color{#ffffff}\!|\!}10001110.00001101.00111101.00000011
+[10:02:09] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:02:09] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:02:09] Parse fls file.
+[10:02:09] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:02:09] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:02:09] BUILD command invoked.
+[10:02:09] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:02:09] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:02:09] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:02:09] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:02:09] LaTeX build process spawned. PID: 90349.
+[10:02:10] LaTeX log parsed with 0 messages.
+[10:02:10] Recipe of length 1 finished. PID: 90349.
+[10:02:10] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:02:10] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:02:10] Parse fls file.
+[10:02:10] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:02:10] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:02:10] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:02:10] Handle data type: loaded
+[10:02:16] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:02:16] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:02:16] Parse fls file.
+[10:02:16] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:02:16] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:02:16] BUILD command invoked.
+[10:02:16] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:02:16] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:02:16] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:02:16] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:02:16] LaTeX build process spawned. PID: 90494.
+[10:02:16] LaTeX log parsed with 0 messages.
+[10:02:16] Recipe of length 1 finished. PID: 90494.
+[10:02:16] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:02:16] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:02:16] Parse fls file.
+[10:02:16] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:02:16] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:02:16] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:02:16] Handle data type: loaded
+[10:02:30] 
+[10:02:30] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[10:02:30] Error when MathJax is rendering 
+\textcolor{red}{{\color{#ffffff}\!|\!}11111111.11111111.10000000.00000000
+[10:02:30] 
+[10:02:30] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[10:02:30] Error when MathJax is rendering 
+\textcolor{red}{{\color{#ffffff}\!|\!}11111111.11111111.10000000.00000000
+[10:02:31] 
+[10:02:31] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[10:02:31] Error when MathJax is rendering 
+\textcolor{red}{{\color{#ffffff}\!|\!}11111111.11111111.10000000.00000000
+[10:02:32] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:02:32] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:02:32] Parse fls file.
+[10:02:32] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:02:32] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:02:32] BUILD command invoked.
+[10:02:32] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:02:32] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:02:32] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:02:32] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:02:32] LaTeX build process spawned. PID: 90849.
+[10:02:33] LaTeX log parsed with 0 messages.
+[10:02:33] Recipe of length 1 finished. PID: 90849.
+[10:02:33] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:02:33] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:02:33] Parse fls file.
+[10:02:33] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:02:33] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:02:33] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:02:33] Handle data type: loaded
+[10:02:49] 
+[10:02:49] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[10:02:49] Error when MathJax is rendering 
+\textcolor{green}{{\color{#ffffff}\!|\!}10001110.00001101.00000000.00000000
+[10:02:49] 
+[10:02:49] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[10:02:49] Error when MathJax is rendering 
+\textcolor{green}{{\color{#ffffff}\!|\!}10001110.00001101.00000000.00000000
+[10:02:50] 
+[10:02:50] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[10:02:50] Error when MathJax is rendering 
+\textcolor{green}{10001110.00001101.0{\color{#ffffff}\!|\!}0000000.00000000
+[10:02:53] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:02:53] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:02:53] Parse fls file.
+[10:02:53] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:02:53] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:02:53] BUILD command invoked.
+[10:02:53] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:02:53] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:02:53] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:02:53] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:02:53] LaTeX build process spawned. PID: 91298.
+[10:02:54] LaTeX log parsed with 0 messages.
+[10:02:54] Recipe of length 1 finished. PID: 91298.
+[10:02:54] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:02:54] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:02:54] Parse fls file.
+[10:02:54] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:02:54] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:02:54] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:02:54] Handle data type: loaded
+[10:03:01] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:03:01] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:03:01] Parse fls file.
+[10:03:01] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:03:01] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:03:01] BUILD command invoked.
+[10:03:01] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:03:01] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:03:01] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:03:01] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:03:01] LaTeX build process spawned. PID: 91431.
+[10:03:01] LaTeX log parsed with 0 messages.
+[10:03:01] Recipe of length 1 finished. PID: 91431.
+[10:03:01] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:03:01] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:03:01] Parse fls file.
+[10:03:01] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:03:02] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:03:02] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:03:02] Handle data type: loaded
+[10:04:12] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:04:12] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:04:12] Parse fls file.
+[10:04:12] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:04:12] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:04:12] BUILD command invoked.
+[10:04:12] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:04:12] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:04:12] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:04:12] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:04:12] LaTeX build process spawned. PID: 92974.
+[10:04:13] LaTeX log parsed with 1 messages.
+[10:04:13] Recipe returns with error: 12/null. PID: 92974. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      'tex/problem1.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex"'
+------------
+Latexmk: Log file says output to 'RN1_InanRamaStuby_Blatt5.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'RN1_InanRamaStuby_Blatt5.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[10:04:13] Cleaning auxiliary files and retrying build after toolchain error.
+[10:04:13] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:04:13] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:04:13] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.log
+[10:04:13] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fdb_latexmk
+[10:04:13] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:04:13] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:04:13] LaTeX build process spawned. PID: 92978.
+[10:04:13] LaTeX log parsed with 4 messages.
+[10:04:13] Recipe returns with error: 12/null. PID: 92978. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex"'
+------------
+Latexmk: References changed.
+Latexmk: Log file says output to 'RN1_InanRamaStuby_Blatt5.pdf'
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 9
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 1 reference(s)
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'RN1_InanRamaStuby_Blatt5.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[10:04:14] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:04:14] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:04:14] Parse fls file.
+[10:04:14] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:04:14] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:04:14] BUILD command invoked.
+[10:04:14] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:04:14] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:04:14] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:04:14] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:04:14] LaTeX build process spawned. PID: 93021.
+[10:04:14] LaTeX log parsed with 0 messages.
+[10:04:14] Recipe of length 1 finished. PID: 93021.
+[10:04:14] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:04:14] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:04:14] Parse fls file.
+[10:04:14] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:04:15] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:04:15] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:04:15] Handle data type: loaded
+[10:04:33] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:04:33] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:04:33] Parse fls file.
+[10:04:33] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:04:33] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:04:33] BUILD command invoked.
+[10:04:33] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:04:33] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:04:33] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:04:33] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:04:33] LaTeX build process spawned. PID: 93401.
+[10:04:34] LaTeX log parsed with 0 messages.
+[10:04:34] Recipe of length 1 finished. PID: 93401.
+[10:04:34] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:04:34] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:04:34] Parse fls file.
+[10:04:34] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:04:34] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:04:34] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:04:34] Handle data type: loaded
+[10:04:38] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:04:38] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:04:38] Parse fls file.
+[10:04:38] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:04:38] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:04:38] BUILD command invoked.
+[10:04:38] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:04:38] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:04:38] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:04:38] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:04:38] LaTeX build process spawned. PID: 93533.
+[10:04:39] LaTeX log parsed with 0 messages.
+[10:04:39] Recipe of length 1 finished. PID: 93533.
+[10:04:39] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:04:39] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:04:39] Parse fls file.
+[10:04:39] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:04:39] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:04:39] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:04:39] Handle data type: loaded
+[10:04:56] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:04:56] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:04:56] Parse fls file.
+[10:04:56] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:04:56] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:04:56] BUILD command invoked.
+[10:04:56] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:04:56] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:04:56] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:04:56] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:04:56] LaTeX build process spawned. PID: 93904.
+[10:04:57] LaTeX log parsed with 0 messages.
+[10:04:57] Recipe of length 1 finished. PID: 93904.
+[10:04:57] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:04:57] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:04:57] Parse fls file.
+[10:04:57] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:04:57] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:04:57] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:04:57] Handle data type: loaded
+[10:05:11] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:05:11] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:05:11] Parse fls file.
+[10:05:11] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:05:11] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:05:11] BUILD command invoked.
+[10:05:11] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:05:11] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:05:11] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:05:11] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:05:11] LaTeX build process spawned. PID: 94198.
+[10:05:12] LaTeX log parsed with 0 messages.
+[10:05:12] Recipe of length 1 finished. PID: 94198.
+[10:05:12] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:05:12] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:05:12] Parse fls file.
+[10:05:12] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:05:12] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:05:12] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:05:12] Handle data type: loaded
+[10:05:26] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:05:26] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:05:26] Parse fls file.
+[10:05:26] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:05:26] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:05:26] BUILD command invoked.
+[10:05:26] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:05:26] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:05:26] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:05:26] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:05:26] LaTeX build process spawned. PID: 94528.
+[10:05:27] LaTeX log parsed with 0 messages.
+[10:05:27] Recipe of length 1 finished. PID: 94528.
+[10:05:27] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:05:27] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:05:27] Parse fls file.
+[10:05:27] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:05:27] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:05:27] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:05:27] Handle data type: loaded
+[10:06:19] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:06:19] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:06:19] Parse fls file.
+[10:06:19] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:06:19] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:06:19] BUILD command invoked.
+[10:06:19] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:06:19] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:06:19] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:06:19] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:06:19] LaTeX build process spawned. PID: 95612.
+[10:06:20] LaTeX log parsed with 0 messages.
+[10:06:20] Recipe of length 1 finished. PID: 95612.
+[10:06:20] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:06:20] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:06:20] Parse fls file.
+[10:06:20] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:06:20] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:06:20] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:06:20] Handle data type: loaded
+[10:13:55] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:13:55] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:13:55] Parse fls file.
+[10:13:55] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:13:55] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:13:55] BUILD command invoked.
+[10:13:55] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:13:55] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:13:55] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:13:55] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:13:55] LaTeX build process spawned. PID: 105721.
+[10:13:55] LaTeX log parsed with 0 messages.
+[10:13:55] Recipe of length 1 finished. PID: 105721.
+[10:13:55] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:13:55] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:13:55] Parse fls file.
+[10:13:55] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:13:55] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:13:55] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:13:55] Handle data type: loaded
+[10:13:56] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:14:04] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.tex
+[10:14:04] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.tex
+[10:14:04] Parse fls file.
+[10:14:04] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.fls
+[10:14:04] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.tex
+[10:14:04] BUILD command invoked.
+[10:14:04] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:14:04] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:14:04] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:14:04] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:14:04] LaTeX build process spawned. PID: 105943.
+[10:14:05] LaTeX log parsed with 0 messages.
+[10:14:05] Recipe of length 1 finished. PID: 105943.
+[10:14:05] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:14:05] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:14:05] Parse fls file.
+[10:14:05] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:14:05] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:14:05] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:14:05] Handle data type: loaded
+[10:14:25] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.tex
+[10:14:25] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.tex
+[10:14:25] Parse fls file.
+[10:14:25] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.fls
+[10:14:25] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.tex
+[10:14:25] BUILD command invoked.
+[10:14:25] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:14:25] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:14:25] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:14:25] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:14:25] LaTeX build process spawned. PID: 106376.
+[10:14:26] LaTeX log parsed with 0 messages.
+[10:14:26] Recipe of length 1 finished. PID: 106376.
+[10:14:26] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:14:26] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:14:26] Parse fls file.
+[10:14:26] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:14:26] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:14:26] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:14:26] Handle data type: loaded
+[10:14:48] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.tex
+[10:14:48] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.tex
+[10:14:48] Parse fls file.
+[10:14:48] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.fls
+[10:14:48] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.tex
+[10:14:48] BUILD command invoked.
+[10:14:48] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:14:48] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:14:48] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:14:48] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:14:48] LaTeX build process spawned. PID: 106877.
+[10:14:49] LaTeX log parsed with 0 messages.
+[10:14:49] Recipe of length 1 finished. PID: 106877.
+[10:14:49] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:14:49] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:14:49] Parse fls file.
+[10:14:49] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:14:49] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:14:49] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:14:49] Handle data type: loaded
+[10:14:51] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:15:02] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:15:02] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:15:02] Parse fls file.
+[10:15:02] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:15:02] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:15:02] BUILD command invoked.
+[10:15:02] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:15:02] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:15:02] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:15:02] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:15:02] LaTeX build process spawned. PID: 107171.
+[10:15:03] LaTeX log parsed with 0 messages.
+[10:15:03] Recipe of length 1 finished. PID: 107171.
+[10:15:03] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:15:03] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:15:03] Parse fls file.
+[10:15:03] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:15:03] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:15:03] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:15:03] Handle data type: loaded
+[10:15:07] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:15:12] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.tex
+[10:15:12] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.tex
+[10:15:12] Parse fls file.
+[10:15:12] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.fls
+[10:15:12] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem2.tex
+[10:15:12] BUILD command invoked.
+[10:15:12] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:15:12] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:15:12] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:15:12] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:15:12] LaTeX build process spawned. PID: 107387.
+[10:15:13] LaTeX log parsed with 0 messages.
+[10:15:13] Recipe of length 1 finished. PID: 107387.
+[10:15:13] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:15:13] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:15:13] Parse fls file.
+[10:15:13] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:15:13] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:15:13] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:15:13] Handle data type: loaded
+[10:15:13] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:15:24] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.tex
+[10:15:24] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.tex
+[10:15:24] Parse fls file.
+[10:15:24] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.fls
+[10:15:24] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.tex
+[10:15:24] BUILD command invoked.
+[10:15:24] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:15:24] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:15:24] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:15:24] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:15:24] LaTeX build process spawned. PID: 107615.
+[10:15:25] LaTeX log parsed with 0 messages.
+[10:15:25] Recipe of length 1 finished. PID: 107615.
+[10:15:25] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:15:25] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:15:25] Parse fls file.
+[10:15:25] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:15:25] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:15:25] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:15:25] Handle data type: loaded
+[10:15:42] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.tex
+[10:15:42] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.tex
+[10:15:42] Parse fls file.
+[10:15:42] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.fls
+[10:15:42] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.tex
+[10:15:42] BUILD command invoked.
+[10:15:42] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:15:42] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:15:42] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:15:42] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:15:42] LaTeX build process spawned. PID: 107996.
+[10:15:42] LaTeX log parsed with 0 messages.
+[10:15:42] Recipe of length 1 finished. PID: 107996.
+[10:15:42] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:15:42] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:15:42] Parse fls file.
+[10:15:42] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:15:42] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:15:42] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:15:43] Handle data type: loaded
+[10:15:44] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.tex
+[10:15:44] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.tex
+[10:15:44] Parse fls file.
+[10:15:44] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.fls
+[10:15:44] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem3.tex
+[10:15:44] BUILD command invoked.
+[10:15:44] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:15:44] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:15:44] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:15:44] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:15:44] LaTeX build process spawned. PID: 108053.
+[10:15:44] LaTeX log parsed with 0 messages.
+[10:15:44] Recipe of length 1 finished. PID: 108053.
+[10:15:44] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:15:45] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:15:45] Parse fls file.
+[10:15:45] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:15:45] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:15:45] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:15:45] Handle data type: loaded
+[10:15:58] Found files that might be root, choose the first one: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:15:58] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:15:58] Found files that might be root, choose the first one: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:15:58] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:17:03] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/mystyle.sty
+[10:17:03] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/mystyle.sty
+[10:17:03] BUILD command invoked.
+[10:17:03] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:17:03] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:17:03] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:17:03] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:17:03] LaTeX build process spawned. PID: 109836.
+[10:17:03] LaTeX log parsed with 0 messages.
+[10:17:03] Recipe of length 1 finished. PID: 109836.
+[10:17:03] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:17:03] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:17:03] Parse fls file.
+[10:17:03] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:17:04] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:17:04] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:17:04] Handle data type: loaded
+[10:17:29] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/mystyle.sty
+[10:17:29] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/mystyle.sty
+[10:17:29] BUILD command invoked.
+[10:17:29] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:17:29] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:17:29] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:17:29] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:17:29] LaTeX build process spawned. PID: 110390.
+[10:17:30] LaTeX log parsed with 0 messages.
+[10:17:30] Recipe of length 1 finished. PID: 110390.
+[10:17:30] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:17:30] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:17:30] Parse fls file.
+[10:17:30] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:17:30] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:17:30] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:17:30] Handle data type: loaded
+[10:17:36] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:17:45] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:17:45] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:17:45] Parse fls file.
+[10:17:45] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:17:45] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:17:45] BUILD command invoked.
+[10:17:45] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:17:45] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:17:45] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:17:45] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:17:45] LaTeX build process spawned. PID: 110741.
+[10:17:46] LaTeX log parsed with 0 messages.
+[10:17:46] Recipe of length 1 finished. PID: 110741.
+[10:17:46] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:17:46] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:17:46] Parse fls file.
+[10:17:46] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:17:46] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:17:46] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:17:46] Handle data type: loaded
+[10:17:47] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:17:47] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:17:47] Parse fls file.
+[10:17:47] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:17:47] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:17:47] BUILD command invoked.
+[10:17:47] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:17:47] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:17:47] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:17:47] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:17:47] LaTeX build process spawned. PID: 110783.
+[10:17:47] LaTeX log parsed with 0 messages.
+[10:17:47] Recipe of length 1 finished. PID: 110783.
+[10:17:47] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:17:47] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:17:47] Parse fls file.
+[10:17:47] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:17:47] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:17:47] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:17:47] Handle data type: loaded
+[10:20:14] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:20:14] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:20:14] Parse fls file.
+[10:20:14] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:20:14] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:20:14] BUILD command invoked.
+[10:20:14] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:20:14] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:20:14] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:20:14] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:20:14] LaTeX build process spawned. PID: 114282.
+[10:20:15] LaTeX log parsed with 0 messages.
+[10:20:15] Recipe of length 1 finished. PID: 114282.
+[10:20:15] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:20:15] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:20:15] Parse fls file.
+[10:20:15] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:20:15] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:20:15] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:20:15] Handle data type: loaded
+[10:20:32] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:20:32] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:20:32] Parse fls file.
+[10:20:32] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:20:32] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:20:32] BUILD command invoked.
+[10:20:32] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:20:32] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:20:32] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:20:32] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:20:32] LaTeX build process spawned. PID: 114678.
+[10:20:33] LaTeX log parsed with 0 messages.
+[10:20:33] Recipe of length 1 finished. PID: 114678.
+[10:20:33] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:20:33] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:20:33] Parse fls file.
+[10:20:33] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:20:33] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:20:33] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:20:33] Handle data type: loaded
+[10:21:08] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:21:08] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:21:08] Parse fls file.
+[10:21:08] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:21:08] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:21:08] BUILD command invoked.
+[10:21:08] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:21:08] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:21:08] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:21:08] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:21:08] LaTeX build process spawned. PID: 115419.
+[10:21:08] LaTeX log parsed with 0 messages.
+[10:21:08] Recipe of length 1 finished. PID: 115419.
+[10:21:08] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:21:08] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:21:08] Parse fls file.
+[10:21:08] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:21:08] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:21:08] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:21:08] Handle data type: loaded
+[10:21:33] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:21:33] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:21:33] Parse fls file.
+[10:21:33] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:21:33] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:21:33] BUILD command invoked.
+[10:21:33] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:21:33] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:21:33] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:21:33] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:21:33] LaTeX build process spawned. PID: 115968.
+[10:21:33] LaTeX log parsed with 0 messages.
+[10:21:33] Recipe of length 1 finished. PID: 115968.
+[10:21:33] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:21:33] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:21:33] Parse fls file.
+[10:21:33] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:21:33] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:21:33] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:21:34] Handle data type: loaded
+[10:21:48] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:21:48] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:21:48] Parse fls file.
+[10:21:48] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[10:21:48] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[10:21:48] BUILD command invoked.
+[10:21:48] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:21:48] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[10:21:48] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[10:21:48] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[10:21:48] LaTeX build process spawned. PID: 116262.
+[10:21:49] LaTeX log parsed with 0 messages.
+[10:21:49] Recipe of length 1 finished. PID: 116262.
+[10:21:49] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[10:21:49] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:21:49] Parse fls file.
+[10:21:49] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[10:21:49] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[10:21:49] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[10:21:49] Handle data type: loaded
+[11:47:42] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[11:47:42] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[11:47:42] Parse fls file.
+[11:47:42] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[11:47:42] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[11:47:42] BUILD command invoked.
+[11:47:42] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[11:47:42] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[11:47:42] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[11:47:42] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[11:47:42] LaTeX build process spawned. PID: 227678.
+[11:47:42] LaTeX log parsed with 0 messages.
+[11:47:42] Recipe of length 1 finished. PID: 227678.
+[11:47:42] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[11:47:42] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[11:47:42] Parse fls file.
+[11:47:42] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[11:47:42] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[11:47:42] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[11:47:42] Handle data type: loaded
+[11:47:59] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[11:47:59] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[11:47:59] Parse fls file.
+[11:47:59] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[11:47:59] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[11:47:59] BUILD command invoked.
+[11:47:59] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[11:47:59] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[11:47:59] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[11:47:59] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[11:47:59] LaTeX build process spawned. PID: 228074.
+[11:48:00] LaTeX log parsed with 0 messages.
+[11:48:00] Recipe of length 1 finished. PID: 228074.
+[11:48:00] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[11:48:00] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[11:48:00] Parse fls file.
+[11:48:00] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[11:48:00] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[11:48:00] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[11:48:00] Handle data type: loaded
+[12:05:55] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[12:05:55] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[12:05:55] Parse fls file.
+[12:05:55] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[12:05:55] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[12:05:55] BUILD command invoked.
+[12:05:55] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[12:05:55] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[12:05:55] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[12:05:55] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[12:05:55] LaTeX build process spawned. PID: 251644.
+[12:05:55] LaTeX log parsed with 0 messages.
+[12:05:55] Recipe of length 1 finished. PID: 251644.
+[12:05:55] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[12:05:55] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[12:05:55] Parse fls file.
+[12:05:55] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[12:05:55] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[12:05:55] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.pdf
+[12:05:55] Handle data type: loaded
+[13:31:10] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[13:31:11] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[13:31:11] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[13:31:11] Parse fls file.
+[13:31:11] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.fls
+[13:31:11] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/tex/problem1.tex
+[13:31:11] BUILD command invoked.
+[13:31:11] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[13:31:11] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex
+[13:31:11] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5
+[13:31:11] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5
+[13:31:11] LaTeX build process spawned. PID: 362580.
+[13:31:11] Recipe of length 1 finished. PID: 362580.
+[13:31:11] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[13:31:13] CLEAN command invoked.
+[13:31:13] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.
+[13:31:13] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.aux
+[13:31:13] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fls
+[13:31:13] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.fdb_latexmk
+[13:31:13] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.log
+[13:31:15] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20rn1/Blatt5/Blatt5/RN1_InanRamaStuby_Blatt5.tex.

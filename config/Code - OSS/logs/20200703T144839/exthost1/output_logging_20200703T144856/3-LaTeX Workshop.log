@@ -1,0 +1,1459 @@
+[14:48:56] Initializing LaTeX Workshop.
+[14:48:56] Creating PDF file watcher.
+[14:48:56] Creating LaTeX Workshop http and websocket server.
+[14:48:56] LaTeX Workshop initialized.
+[14:48:56] Server created on 127.0.0.1:42635
+[14:48:56] LaTeX Workshop version: 8.11.1
+[14:48:56] Snippet data loaded.
+[14:48:57] Found root file from parent: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[14:48:57] Found root file from parent: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[14:48:57] Root file changed: from undefined to /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[14:48:57] Start to find all dependencies.
+[14:48:57] Instantiating a new file watcher for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[14:48:57] Creating Bib file watcher.
+[14:48:57] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[14:48:57] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[14:48:57] Parse fls file.
+[14:48:57] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[14:48:57] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[14:48:57] Parse fls file.
+[14:48:57] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.fls
+[14:48:57] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem3.tex
+[14:48:57] Parse fls file.
+[14:48:57] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem3.fls
+[14:48:57] Parse fls file.
+[14:48:57] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[14:48:57] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[14:48:57] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[14:48:57] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[14:48:57] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[14:48:57] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem3.tex
+[14:48:57] Handle data type: open
+[14:48:57] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[14:48:57] Handle data type: request_params
+[14:48:57] Handle data type: loaded
+[14:48:57] VIEW command invoked.
+[14:48:57] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[14:48:57] Serving PDF file at http://localhost:42635/viewer.html?file=pdf..JTJGaG9tZSUyRmphc3QlMkZEb2N1bWVudHMlMkZVbmklMkZWb3JsZXN1bmdlbiUyRlNlbWVzdGVyNCUyRnNzMjB0aGVvMiUyRkFiZ2FiZW4lMkZCbGF0dDklMkZCbGF0dDklMkZUSV9CbGF0dDkucGRm
+[14:48:57] The encoded path is /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[14:48:57] Open PDF tab for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[14:48:57] Handle data type: open
+[14:48:57] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[14:48:58] Handle data type: request_params
+[14:48:58] Handle data type: loaded
+[14:55:51] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[14:55:53] BUILD command invoked.
+[14:55:53] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[14:55:53] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[14:55:53] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[14:55:53] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[14:55:53] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[14:55:53] LaTeX build process spawned. PID: 329802.
+[14:55:55] LaTeX log parsed with 4 messages.
+[14:55:55] Recipe of length 1 finished. PID: 329802.
+[14:55:55] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[14:55:55] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[14:55:55] Parse fls file.
+[14:55:55] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[14:55:55] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[14:55:55] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[14:55:55] Handle data type: loaded
+[14:55:55] Added to file watcher: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/mystyle.sty
+[14:55:56] CLEAN command invoked.
+[14:55:56] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[14:55:56] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[14:55:56] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[14:55:56] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fdb_latexmk
+[14:55:56] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.log
+[14:57:53] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[14:57:53] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[14:58:00] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[14:58:00] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[14:58:00] Parse fls file.
+[14:58:00] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.fls
+[14:58:00] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[14:58:00] BUILD command invoked.
+[14:58:00] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[14:58:00] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[14:58:00] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[14:58:00] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[14:58:00] LaTeX build process spawned. PID: 333061.
+[14:58:00] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[14:58:00] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[14:58:00] Parse fls file.
+[14:58:00] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[14:58:00] Auto Build Run is temporarily disabled during a second.
+[14:58:01] LaTeX log parsed with 4 messages.
+[14:58:01] Recipe of length 1 finished. PID: 333061.
+[14:58:01] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[14:58:01] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[14:58:01] Parse fls file.
+[14:58:01] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[14:58:01] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[14:58:01] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[14:58:01] Handle data type: loaded
+[14:58:03] CLEAN command invoked.
+[14:58:03] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[14:58:03] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[14:58:03] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[14:58:03] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.log
+[14:58:03] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fdb_latexmk
+[16:34:07] Handle data type: reverse_synctex
+[16:34:07] SyncTeX to file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[16:34:07] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[16:34:19] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[16:34:19] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[16:34:19] Parse fls file.
+[16:34:19] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.fls
+[16:34:19] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[16:34:19] BUILD command invoked.
+[16:34:19] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[16:34:19] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[16:34:19] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[16:34:19] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[16:34:19] LaTeX build process spawned. PID: 457757.
+[16:34:20] LaTeX log parsed with 4 messages.
+[16:34:20] Recipe of length 1 finished. PID: 457757.
+[16:34:20] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[16:34:20] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[16:34:20] Parse fls file.
+[16:34:20] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[16:34:20] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[16:34:20] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[16:34:20] Handle data type: loaded
+[17:56:32] CLEAN command invoked.
+[17:56:32] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[17:56:32] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[17:56:32] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[17:56:32] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.log
+[17:56:32] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fdb_latexmk
+[17:59:13] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:00:21] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:00:21] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:00:21] Parse fls file.
+[18:00:21] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:00:21] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:00:21] BUILD command invoked.
+[18:00:21] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:00:21] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:00:21] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:00:21] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:00:21] LaTeX build process spawned. PID: 572913.
+[18:00:22] LaTeX log parsed with 4 messages.
+[18:00:22] Recipe of length 1 finished. PID: 572913.
+[18:00:22] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:00:22] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:00:22] Parse fls file.
+[18:00:22] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:00:22] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:00:22] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:00:22] Handle data type: loaded
+[18:01:55] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:01:55] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:01:55] Parse fls file.
+[18:01:55] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:01:55] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:01:55] BUILD command invoked.
+[18:01:55] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:01:55] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:01:55] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:01:55] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:01:55] LaTeX build process spawned. PID: 574837.
+[18:01:55] LaTeX log parsed with 4 messages.
+[18:01:55] Recipe of length 1 finished. PID: 574837.
+[18:01:55] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:01:55] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:01:55] Parse fls file.
+[18:01:55] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:01:55] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:01:55] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:01:55] Handle data type: loaded
+[18:02:00] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:02:00] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:02:00] Parse fls file.
+[18:02:00] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:02:00] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:02:00] BUILD command invoked.
+[18:02:00] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:02:00] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:02:00] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:02:00] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:02:00] LaTeX build process spawned. PID: 574979.
+[18:02:01] LaTeX log parsed with 4 messages.
+[18:02:01] Recipe of length 1 finished. PID: 574979.
+[18:02:01] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:02:01] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:02:01] Parse fls file.
+[18:02:01] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:02:01] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:02:01] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:02:01] Handle data type: loaded
+[18:02:09] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:02:09] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:02:09] Parse fls file.
+[18:02:09] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:02:09] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:02:09] BUILD command invoked.
+[18:02:09] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:02:09] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:02:09] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:02:09] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:02:09] LaTeX build process spawned. PID: 575153.
+[18:02:10] LaTeX log parsed with 4 messages.
+[18:02:10] Recipe of length 1 finished. PID: 575153.
+[18:02:10] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:02:10] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:02:10] Parse fls file.
+[18:02:10] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:02:10] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:02:10] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:02:10] Handle data type: loaded
+[18:04:03] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:04:03] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:04:03] Parse fls file.
+[18:04:03] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:04:03] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:04:03] BUILD command invoked.
+[18:04:03] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:04:03] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:04:03] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:04:03] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:04:03] LaTeX build process spawned. PID: 577511.
+[18:04:03] Cannot parse a TeX file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:04:03] Fall back to regex-based completion.
+[18:04:04] LaTeX log parsed with 10 messages.
+[18:04:04] Recipe returns with error: 12/null. PID: 577511. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      'tex/problem1.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex"'
+------------
+Latexmk: Log file says output to 'TI_Blatt9.pdf'
+Latexmk: List of undefined refs and citations:
+  Label `LastPage' multiply defined
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex found 1 multiply defined reference(s)
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'TI_Blatt9.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[18:04:04] Cleaning auxiliary files and retrying build after toolchain error.
+[18:04:04] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:04:04] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:04:04] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.log
+[18:04:04] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fdb_latexmk
+[18:04:04] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:04:04] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:04:04] LaTeX build process spawned. PID: 577553.
+[18:04:05] LaTeX log parsed with 12 messages.
+[18:04:05] Recipe returns with error: 12/null. PID: 577553. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex"'
+------------
+Latexmk: References changed.
+Latexmk: References changed.
+Latexmk: Log file says output to 'TI_Blatt9.pdf'
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 9
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 1 reference(s)
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'TI_Blatt9.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[18:04:08] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:04:08] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:04:08] Parse fls file.
+[18:04:08] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:04:08] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:04:08] BUILD command invoked.
+[18:04:08] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:04:08] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:04:08] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:04:08] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:04:08] LaTeX build process spawned. PID: 577644.
+[18:04:08] Cannot parse a TeX file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:04:08] Fall back to regex-based completion.
+[18:04:09] LaTeX log parsed with 12 messages.
+[18:04:09] Recipe returns with error: 12/null. PID: 577644. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      'TI_Blatt9.aux'
+      'tex/problem1.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex"'
+------------
+Latexmk: Log file says output to 'TI_Blatt9.pdf'
+Latexmk: List of undefined refs and citations:
+  Label `LastPage' multiply defined
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex found 1 multiply defined reference(s)
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'TI_Blatt9.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[18:04:09] Cleaning auxiliary files and retrying build after toolchain error.
+[18:04:09] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:04:09] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:04:09] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fdb_latexmk
+[18:04:09] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.log
+[18:04:09] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:04:09] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:04:09] LaTeX build process spawned. PID: 577647.
+[18:04:09] LaTeX log parsed with 14 messages.
+[18:04:09] Recipe returns with error: 12/null. PID: 577647. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex"'
+------------
+Latexmk: References changed.
+Latexmk: References changed.
+Latexmk: Log file says output to 'TI_Blatt9.pdf'
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 9
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 1 reference(s)
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'TI_Blatt9.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[18:04:14] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:04:14] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:04:14] Parse fls file.
+[18:04:14] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:04:14] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:04:14] BUILD command invoked.
+[18:04:14] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:04:14] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:04:14] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:04:14] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:04:14] LaTeX build process spawned. PID: 577779.
+[18:04:14] Cannot parse a TeX file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:04:14] Fall back to regex-based completion.
+[18:04:15] LaTeX log parsed with 104 messages.
+[18:04:15] Recipe returns with error: 12/null. PID: 577779. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      'TI_Blatt9.aux'
+      'tex/problem1.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex"'
+------------
+Latexmk: List of undefined refs and citations:
+  Label `LastPage' multiply defined
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex found 1 multiply defined reference(s)
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'TI_Blatt9.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[18:04:15] Cleaning auxiliary files and retrying build after toolchain error.
+[18:04:15] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:04:15] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.log
+[18:04:15] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:04:15] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fdb_latexmk
+[18:04:15] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:04:15] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:04:15] LaTeX build process spawned. PID: 577782.
+[18:04:16] LaTeX log parsed with 103 messages.
+[18:04:16] Recipe returns with error: 12/null. PID: 577782. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex"'
+------------
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'TI_Blatt9.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[18:04:24] 
+[18:04:24] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[18:04:24] Error when MathJax is rendering 
+f_1, f_2 \in \mathcal{O}(g) \Rightarrow \exists c_1 > 0 \exists n_0^\' \geq \forall n_0 \geq n_0^'{\color{#ffffff}\!|\!}
+[18:04:25] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:04:25] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:04:25] Parse fls file.
+[18:04:25] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:04:25] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:04:25] BUILD command invoked.
+[18:04:25] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:04:25] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:04:25] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:04:25] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:04:25] LaTeX build process spawned. PID: 577995.
+[18:04:26] LaTeX log parsed with 10 messages.
+[18:04:26] Recipe returns with error: 12/null. PID: 577995. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      'TI_Blatt9.aux'
+      'tex/problem1.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex"'
+------------
+Latexmk: References changed.
+Latexmk: References changed.
+Latexmk: Log file says output to 'TI_Blatt9.pdf'
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 9
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 1 reference(s)
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'TI_Blatt9.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[18:04:26] Cleaning auxiliary files and retrying build after toolchain error.
+[18:04:26] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:04:26] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.log
+[18:04:26] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fdb_latexmk
+[18:04:26] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:04:26] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:04:26] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:04:26] LaTeX build process spawned. PID: 578037.
+[18:04:27] LaTeX log parsed with 10 messages.
+[18:04:27] Recipe returns with error: 12/null. PID: 578037. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex"'
+------------
+Latexmk: References changed.
+Latexmk: References changed.
+Latexmk: Log file says output to 'TI_Blatt9.pdf'
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 9
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 1 reference(s)
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'TI_Blatt9.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[18:04:28] 
+[18:04:28] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[18:04:28] Error when MathJax is rendering 
+f_1, f_2 \in \mathcal{O}(g) \Rightarrow \exists c_1 > 0 \exists n_0^{\color{#ffffff}\!|\!}' \geq \forall n_0 \geq n_0^'
+[18:04:28] 
+[18:04:28] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[18:04:28] Error when MathJax is rendering 
+f_1, f_2 \in \mathcal{O}(g) \Rightarrow \exists c_1 > 0 \exists n_0^{\color{#ffffff}\!|\!}' \geq \forall n_0 \geq n_0^'
+[18:04:31] 
+[18:04:31] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[18:04:31] Error when MathJax is rendering 
+f_1, f_2 \in \mathcal{O}(g) \Rightarrow \exists c_1 > 0 \exists n_0^{\color{#ffffff}\!|\!}' \geq \forall n_0 \geq n_0^'
+[18:04:33] 
+[18:04:33] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[18:04:33] Error when MathJax is rendering 
+f_1, f_2 \in \mathcal{O}(g) \Rightarrow \exists c_1 > 0 \exists n_0^{\color{#ffffff}\!|\!}' \geq \forall n_0 \geq n_0^'
+[18:04:37] 
+[18:04:37] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[18:04:37] Error when MathJax is rendering 
+f_1, f_2 \in \mathcal{O}(g) \Rightarrow \exists c_1 > 0 \exists n_{0}{\color{#ffffff}\!|\!}^' \geq \forall n_0 \geq n_0^'
+[18:04:45] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:04:45] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:04:45] Parse fls file.
+[18:04:45] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:04:45] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:04:45] BUILD command invoked.
+[18:04:45] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:04:45] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:04:45] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:04:45] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:04:45] LaTeX build process spawned. PID: 578412.
+[18:04:46] LaTeX log parsed with 8 messages.
+[18:04:46] Recipe returns with error: 12/null. PID: 578412. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      'TI_Blatt9.aux'
+      'tex/problem1.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex"'
+------------
+Latexmk: Log file says output to 'TI_Blatt9.pdf'
+Latexmk: List of undefined refs and citations:
+  Label `LastPage' multiply defined
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex found 1 multiply defined reference(s)
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'TI_Blatt9.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[18:04:46] Cleaning auxiliary files and retrying build after toolchain error.
+[18:04:46] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:04:46] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.log
+[18:04:46] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:04:46] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fdb_latexmk
+[18:04:46] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:04:46] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:04:46] LaTeX build process spawned. PID: 578454.
+[18:04:47] LaTeX log parsed with 10 messages.
+[18:04:47] Recipe returns with error: 12/null. PID: 578454. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex"'
+------------
+Latexmk: References changed.
+Latexmk: References changed.
+Latexmk: Log file says output to 'TI_Blatt9.pdf'
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 9
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 1 reference(s)
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'TI_Blatt9.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[18:04:49] 
+[18:04:49] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[18:04:49] Error when MathJax is rendering 
+f_1, f_2 \in \mathcal{O}(g) \Rightarrow \exists c_1 > 0 \exists n_{0}^{{\color{#ffffff}\!|\!}'} \geq \forall n_0 \geq n_0^'
+[18:04:49] 
+[18:04:49] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[18:04:49] Error when MathJax is rendering 
+f_1, f_2 \in \mathcal{O}(g) \Rightarrow \exists c_1 > 0 \exists n_{0}^{{\color{#ffffff}\!|\!}'} \geq \forall n_0 \geq n_0^'
+[18:04:50] 
+[18:04:50] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[18:04:50] Error when MathJax is rendering 
+f_1, f_2 \in \mathcal{O}(g) \Rightarrow \exists c_1 > 0 \exists n_{0}^{{\color{#ffffff}\!|\!}'} \geq \forall n_0 \geq n_0^'
+[18:04:56] 
+[18:04:56] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[18:04:56] Error when MathJax is rendering 
+f_1, f_2 \in \mathcal{O}(g) \Rightarrow \exists c_1 > 0 \exists n_{0}^{'} \geq \forall n_0 \geq n_{0}{\color{#ffffff}\!|\!}^'
+[18:05:01] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:05:01] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:05:01] Parse fls file.
+[18:05:01] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:05:01] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:05:01] BUILD command invoked.
+[18:05:01] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:05:01] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:05:01] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:05:01] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:05:01] LaTeX build process spawned. PID: 578745.
+[18:05:02] LaTeX log parsed with 4 messages.
+[18:05:02] Recipe of length 1 finished. PID: 578745.
+[18:05:02] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:05:02] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:05:02] Parse fls file.
+[18:05:02] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:05:02] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:05:02] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:05:02] Handle data type: loaded
+[18:05:09] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:05:12] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:05:12] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:05:12] Parse fls file.
+[18:05:12] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:05:12] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:05:12] BUILD command invoked.
+[18:05:12] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:05:12] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:05:12] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:05:12] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:05:12] LaTeX build process spawned. PID: 579000.
+[18:05:13] LaTeX log parsed with 4 messages.
+[18:05:13] Recipe of length 1 finished. PID: 579000.
+[18:05:13] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:05:13] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:05:13] Parse fls file.
+[18:05:13] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:05:13] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:05:13] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:05:13] Handle data type: loaded
+[18:05:28] 
+[18:05:28] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[18:05:28] Error when MathJax is rendering 
+f_1, f_2 \in \mathcal{O}(g) \Rightarrow \exists c_1 > 0 \exists n_{0}^{'} \geq \forall n_0 \geq n_{0}{'{\color{#ffffff}\!|\!}
+[18:05:30] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:05:30] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:05:30] Parse fls file.
+[18:05:30] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:05:30] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:05:30] BUILD command invoked.
+[18:05:30] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:05:30] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:05:30] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:05:30] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:05:30] LaTeX build process spawned. PID: 579608.
+[18:05:31] LaTeX log parsed with 4 messages.
+[18:05:31] Recipe of length 1 finished. PID: 579608.
+[18:05:31] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:05:31] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:05:31] Parse fls file.
+[18:05:31] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:05:31] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:05:31] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:05:31] Handle data type: loaded
+[18:05:36] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:05:36] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:05:36] Parse fls file.
+[18:05:36] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:05:36] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:05:36] BUILD command invoked.
+[18:05:36] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:05:36] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:05:36] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:05:36] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:05:36] LaTeX build process spawned. PID: 579876.
+[18:05:37] LaTeX log parsed with 4 messages.
+[18:05:37] Recipe of length 1 finished. PID: 579876.
+[18:05:37] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:05:37] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:05:37] Parse fls file.
+[18:05:37] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:05:37] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:05:37] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:05:37] Handle data type: loaded
+[18:06:40] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:06:40] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:06:40] Parse fls file.
+[18:06:40] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:06:40] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:06:40] BUILD command invoked.
+[18:06:40] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:06:40] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:06:40] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:06:40] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:06:40] LaTeX build process spawned. PID: 581354.
+[18:06:40] LaTeX log parsed with 4 messages.
+[18:06:40] Recipe of length 1 finished. PID: 581354.
+[18:06:40] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:06:40] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:06:40] Parse fls file.
+[18:06:40] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:06:40] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:06:40] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:06:40] Handle data type: loaded
+[18:06:57] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:06:57] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:06:57] Parse fls file.
+[18:06:57] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:06:57] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:06:57] BUILD command invoked.
+[18:06:57] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:06:57] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:06:57] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:06:57] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:06:57] LaTeX build process spawned. PID: 581736.
+[18:06:58] LaTeX log parsed with 4 messages.
+[18:06:58] Recipe of length 1 finished. PID: 581736.
+[18:06:58] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:06:58] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:06:58] Parse fls file.
+[18:06:58] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:06:58] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:06:58] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:06:58] Handle data type: loaded
+[18:07:32] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:07:32] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:07:32] Parse fls file.
+[18:07:32] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:07:32] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:07:32] BUILD command invoked.
+[18:07:32] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:07:32] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:07:32] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:07:32] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:07:32] LaTeX build process spawned. PID: 582472.
+[18:07:33] LaTeX log parsed with 4 messages.
+[18:07:33] Recipe of length 1 finished. PID: 582472.
+[18:07:33] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:07:33] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:07:33] Parse fls file.
+[18:07:33] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:07:33] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:07:33] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:07:33] Handle data type: loaded
+[18:08:10] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:08:10] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:08:10] Parse fls file.
+[18:08:10] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:08:10] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:08:10] BUILD command invoked.
+[18:08:10] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:08:10] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:08:10] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:08:10] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:08:10] LaTeX build process spawned. PID: 583252.
+[18:08:10] Cannot parse a TeX file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:08:10] Fall back to regex-based completion.
+[18:08:11] LaTeX log parsed with 8 messages.
+[18:08:11] Recipe returns with error: 12/null. PID: 583252. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      'tex/problem1.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex"'
+------------
+Latexmk: Log file says output to 'TI_Blatt9.pdf'
+Latexmk: List of undefined refs and citations:
+  Label `LastPage' multiply defined
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex found 1 multiply defined reference(s)
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'TI_Blatt9.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[18:08:11] Cleaning auxiliary files and retrying build after toolchain error.
+[18:08:11] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:08:11] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:08:11] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fdb_latexmk
+[18:08:11] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.log
+[18:08:11] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:08:11] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:08:11] LaTeX build process spawned. PID: 583255.
+[18:08:11] LaTeX log parsed with 10 messages.
+[18:08:11] Recipe returns with error: 12/null. PID: 583255. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex"'
+------------
+Latexmk: References changed.
+Latexmk: References changed.
+Latexmk: Log file says output to 'TI_Blatt9.pdf'
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 9
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 1 reference(s)
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'TI_Blatt9.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[18:08:14] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:08:14] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:08:14] Parse fls file.
+[18:08:14] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:08:14] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:08:14] BUILD command invoked.
+[18:08:14] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:08:14] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:08:14] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:08:14] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:08:14] LaTeX build process spawned. PID: 583307.
+[18:08:14] LaTeX log parsed with 4 messages.
+[18:08:14] Recipe of length 1 finished. PID: 583307.
+[18:08:14] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:08:14] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:08:14] Parse fls file.
+[18:08:14] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:08:14] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:08:14] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:08:14] Handle data type: loaded
+[18:09:28] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:09:28] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:09:28] Parse fls file.
+[18:09:28] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:09:28] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:09:28] BUILD command invoked.
+[18:09:28] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:09:28] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:09:28] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:09:28] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:09:28] LaTeX build process spawned. PID: 584910.
+[18:09:29] LaTeX log parsed with 4 messages.
+[18:09:29] Recipe of length 1 finished. PID: 584910.
+[18:09:29] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:09:29] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:09:29] Parse fls file.
+[18:09:29] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:09:29] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:09:29] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:09:29] Handle data type: loaded
+[18:10:06] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:10:06] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:10:06] Parse fls file.
+[18:10:06] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:10:06] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:10:06] BUILD command invoked.
+[18:10:06] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:10:06] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:10:06] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:10:06] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:10:06] LaTeX build process spawned. PID: 585692.
+[18:10:07] LaTeX log parsed with 4 messages.
+[18:10:07] Recipe of length 1 finished. PID: 585692.
+[18:10:07] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:10:07] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:10:07] Parse fls file.
+[18:10:07] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:10:07] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:10:07] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:10:07] Handle data type: loaded
+[18:10:31] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:10:31] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:10:31] Parse fls file.
+[18:10:31] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:10:31] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:10:31] BUILD command invoked.
+[18:10:31] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:10:31] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:10:31] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:10:31] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:10:31] LaTeX build process spawned. PID: 586197.
+[18:10:32] LaTeX log parsed with 4 messages.
+[18:10:32] Recipe of length 1 finished. PID: 586197.
+[18:10:32] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:10:32] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:10:32] Parse fls file.
+[18:10:32] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:10:32] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:10:32] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:10:32] Handle data type: loaded
+[18:12:40] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:12:40] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:12:40] Parse fls file.
+[18:12:40] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:12:40] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:12:40] BUILD command invoked.
+[18:12:40] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:12:40] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:12:40] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:12:40] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:12:40] LaTeX build process spawned. PID: 588893.
+[18:12:41] LaTeX log parsed with 4 messages.
+[18:12:41] Recipe of length 1 finished. PID: 588893.
+[18:12:41] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:12:41] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:12:41] Parse fls file.
+[18:12:41] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:12:41] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:12:41] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:12:41] Handle data type: loaded
+[18:12:55] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:12:55] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:12:55] Parse fls file.
+[18:12:55] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:12:55] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:12:55] BUILD command invoked.
+[18:12:55] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:12:55] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:12:55] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:12:55] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:12:55] LaTeX build process spawned. PID: 589195.
+[18:12:56] LaTeX log parsed with 4 messages.
+[18:12:56] Recipe of length 1 finished. PID: 589195.
+[18:12:56] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:12:56] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:12:56] Parse fls file.
+[18:12:56] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:12:56] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:12:56] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:12:56] Handle data type: loaded
+[18:13:39] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:13:39] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:13:39] Parse fls file.
+[18:13:39] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:13:39] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:13:39] BUILD command invoked.
+[18:13:39] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:13:39] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:13:39] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:13:39] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:13:39] LaTeX build process spawned. PID: 590089.
+[18:13:40] LaTeX log parsed with 4 messages.
+[18:13:40] Recipe of length 1 finished. PID: 590089.
+[18:13:40] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:13:40] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:13:40] Parse fls file.
+[18:13:40] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:13:40] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:13:40] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:13:40] Handle data type: loaded
+[18:15:05] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:15:05] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:15:05] Parse fls file.
+[18:15:05] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:15:05] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:15:05] BUILD command invoked.
+[18:15:05] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:15:05] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:15:05] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:15:05] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:15:05] LaTeX build process spawned. PID: 591873.
+[18:15:05] LaTeX log parsed with 4 messages.
+[18:15:05] Recipe of length 1 finished. PID: 591873.
+[18:15:05] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:15:05] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:15:05] Parse fls file.
+[18:15:05] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:15:05] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:15:05] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:15:05] Handle data type: loaded
+[18:16:20] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:16:20] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:16:20] Parse fls file.
+[18:16:20] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:16:20] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:16:20] BUILD command invoked.
+[18:16:20] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:16:20] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:16:20] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:16:21] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:16:21] LaTeX build process spawned. PID: 593429.
+[18:16:21] LaTeX log parsed with 4 messages.
+[18:16:21] Recipe of length 1 finished. PID: 593429.
+[18:16:21] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:16:21] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:16:21] Parse fls file.
+[18:16:21] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:16:21] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:16:21] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:16:21] Handle data type: loaded
+[18:16:54] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:16:54] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:16:54] Parse fls file.
+[18:16:54] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:16:54] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:16:54] BUILD command invoked.
+[18:16:54] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:16:54] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:16:54] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:16:54] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:16:54] LaTeX build process spawned. PID: 594133.
+[18:16:55] LaTeX log parsed with 4 messages.
+[18:16:55] Recipe of length 1 finished. PID: 594133.
+[18:16:55] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:16:55] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:16:55] Parse fls file.
+[18:16:55] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:16:55] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:16:55] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:16:55] Handle data type: loaded
+[18:17:02] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:17:02] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:17:02] Parse fls file.
+[18:17:02] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:17:02] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:17:02] BUILD command invoked.
+[18:17:02] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:17:02] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:17:02] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:17:02] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:17:02] LaTeX build process spawned. PID: 594314.
+[18:17:03] LaTeX log parsed with 4 messages.
+[18:17:03] Recipe of length 1 finished. PID: 594314.
+[18:17:03] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:17:03] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:17:03] Parse fls file.
+[18:17:03] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:17:03] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:17:03] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:17:03] Handle data type: loaded
+[18:17:06] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:17:06] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:17:06] Parse fls file.
+[18:17:06] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.fls
+[18:17:06] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem1.tex
+[18:17:06] BUILD command invoked.
+[18:17:06] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:17:06] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:17:06] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:17:06] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:17:06] LaTeX build process spawned. PID: 594366.
+[18:17:07] LaTeX log parsed with 4 messages.
+[18:17:07] Recipe of length 1 finished. PID: 594366.
+[18:17:07] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:17:07] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:17:07] Parse fls file.
+[18:17:07] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:17:07] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:17:07] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:17:07] Handle data type: loaded
+[18:17:34] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:19:08] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:19:08] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:19:08] Parse fls file.
+[18:19:08] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.fls
+[18:19:08] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:19:08] BUILD command invoked.
+[18:19:08] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:19:08] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:19:08] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:19:08] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:19:08] LaTeX build process spawned. PID: 597059.
+[18:19:09] LaTeX log parsed with 44 messages.
+[18:19:09] Recipe returns with error: 12/null. PID: 597059. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      'tex/problem2.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex"'
+------------
+Latexmk: Log file says output to 'TI_Blatt9.pdf'
+Latexmk: List of undefined refs and citations:
+  Label `LastPage' multiply defined
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex found 1 multiply defined reference(s)
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'TI_Blatt9.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[18:19:09] Cleaning auxiliary files and retrying build after toolchain error.
+[18:19:09] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:19:09] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:19:09] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.log
+[18:19:09] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fdb_latexmk
+[18:19:09] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:19:09] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:19:09] LaTeX build process spawned. PID: 597100.
+[18:19:09] LaTeX log parsed with 46 messages.
+[18:19:09] Recipe returns with error: 12/null. PID: 597100. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 17 Apr. 2020, version: 4.69a.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex"'
+------------
+Latexmk: References changed.
+Latexmk: References changed.
+Latexmk: Log file says output to 'TI_Blatt9.pdf'
+Latexmk: List of undefined refs and citations:
+  Reference `LastPage' on page 1 undefined on input line 9
+Latexmk: Summary of warnings from last run of (pdf)latex:
+  Latex failed to resolve 1 reference(s)
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'TI_Blatt9.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[18:19:44] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:19:44] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:19:44] Parse fls file.
+[18:19:44] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.fls
+[18:19:44] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:19:44] BUILD command invoked.
+[18:19:44] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:19:44] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:19:44] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:19:44] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:19:44] LaTeX build process spawned. PID: 597798.
+[18:19:44] LaTeX log parsed with 4 messages.
+[18:19:44] Recipe of length 1 finished. PID: 597798.
+[18:19:44] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:19:44] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:19:44] Parse fls file.
+[18:19:44] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:19:44] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:19:44] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:19:45] Handle data type: loaded
+[18:20:12] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:20:12] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:20:12] Parse fls file.
+[18:20:12] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.fls
+[18:20:12] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:20:12] BUILD command invoked.
+[18:20:12] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:20:12] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:20:12] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:20:12] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:20:12] LaTeX build process spawned. PID: 598699.
+[18:20:12] LaTeX log parsed with 4 messages.
+[18:20:12] Recipe of length 1 finished. PID: 598699.
+[18:20:12] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:20:12] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:20:12] Parse fls file.
+[18:20:12] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:20:12] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:20:12] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:20:12] Handle data type: loaded
+[18:20:28] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:20:28] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:20:28] Parse fls file.
+[18:20:28] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.fls
+[18:20:28] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:20:28] BUILD command invoked.
+[18:20:28] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:20:28] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:20:28] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:20:28] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:20:28] LaTeX build process spawned. PID: 599347.
+[18:20:28] LaTeX log parsed with 4 messages.
+[18:20:28] Recipe of length 1 finished. PID: 599347.
+[18:20:28] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:20:28] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:20:28] Parse fls file.
+[18:20:28] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:20:28] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:20:28] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:20:29] Handle data type: loaded
+[18:20:43] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:20:43] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:20:43] Parse fls file.
+[18:20:43] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.fls
+[18:20:43] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:20:43] BUILD command invoked.
+[18:20:43] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:20:43] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:20:43] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:20:43] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:20:43] LaTeX build process spawned. PID: 599762.
+[18:20:44] LaTeX log parsed with 4 messages.
+[18:20:44] Recipe of length 1 finished. PID: 599762.
+[18:20:44] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:20:44] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:20:44] Parse fls file.
+[18:20:44] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:20:44] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:20:44] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:20:44] Handle data type: loaded
+[18:21:30] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:21:30] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:21:30] Parse fls file.
+[18:21:30] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.fls
+[18:21:30] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:21:30] BUILD command invoked.
+[18:21:30] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:21:30] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:21:30] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:21:30] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:21:30] LaTeX build process spawned. PID: 600719.
+[18:21:30] LaTeX log parsed with 4 messages.
+[18:21:30] Recipe of length 1 finished. PID: 600719.
+[18:21:30] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:21:30] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:21:30] Parse fls file.
+[18:21:30] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:21:30] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:21:30] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:21:30] Handle data type: loaded
+[18:22:20] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:22:20] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:22:20] Parse fls file.
+[18:22:20] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.fls
+[18:22:20] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:22:20] BUILD command invoked.
+[18:22:20] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:22:20] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:22:20] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:22:20] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:22:20] LaTeX build process spawned. PID: 601757.
+[18:22:21] LaTeX log parsed with 4 messages.
+[18:22:21] Recipe of length 1 finished. PID: 601757.
+[18:22:21] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:22:21] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:22:21] Parse fls file.
+[18:22:21] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:22:21] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:22:21] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:22:21] Handle data type: loaded
+[18:22:44] 
+[18:22:44] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[18:22:44] Error when MathJax is rendering 
+\textsc{DTIME}(n) \subseteq \textsc{DTIME}(c \cdot n \log n) \subsetneq \textbf{\textsc{DTIME}{\color{#ffffff}\!|\!}_{2-Band}(c \cdot n\log n)
+[18:22:44] 
+[18:22:44] Error: 
+	at /home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9654
+	at ChildProcess.<anonymous> (/home/jast/.vscode-oss/extensions/james-yu.latex-workshop-8.11.1/node_modules/workerpool/dist/workerpool.min.js:25:9729)
+	at ChildProcess.emit (events.js:203:13)
+	at emit (internal/child_process.js:876:12)
+	at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[18:22:44] Error when MathJax is rendering 
+\textsc{DTIME}(n) \subseteq \textsc{DTIME}(c \cdot n \log n) \subsetneq \textbf{{\color{#ffffff}\!|\!}\textsc{DTIME}_{2-Band}(c \cdot n\log n)
+[18:22:47] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:22:47] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:22:47] Parse fls file.
+[18:22:47] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.fls
+[18:22:47] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:22:47] BUILD command invoked.
+[18:22:47] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:22:47] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:22:47] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:22:47] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:22:47] LaTeX build process spawned. PID: 602332.
+[18:22:48] LaTeX log parsed with 4 messages.
+[18:22:48] Recipe of length 1 finished. PID: 602332.
+[18:22:48] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:22:48] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:22:48] Parse fls file.
+[18:22:48] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:22:48] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:22:48] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:22:48] Handle data type: loaded
+[18:22:56] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:22:56] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:22:56] Parse fls file.
+[18:22:56] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.fls
+[18:22:56] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:22:56] BUILD command invoked.
+[18:22:56] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:22:56] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:22:56] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:22:56] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:22:56] LaTeX build process spawned. PID: 602509.
+[18:22:57] LaTeX log parsed with 4 messages.
+[18:22:57] Recipe of length 1 finished. PID: 602509.
+[18:22:57] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:22:57] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:22:57] Parse fls file.
+[18:22:57] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:22:57] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:22:57] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:22:57] Handle data type: loaded
+[18:24:57] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:24:57] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:24:57] Parse fls file.
+[18:24:57] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.fls
+[18:24:57] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:24:57] BUILD command invoked.
+[18:24:57] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:24:57] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:24:57] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:24:57] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:24:57] LaTeX build process spawned. PID: 605130.
+[18:24:59] LaTeX log parsed with 4 messages.
+[18:24:59] Recipe of length 1 finished. PID: 605130.
+[18:24:59] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:24:59] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:24:59] Parse fls file.
+[18:24:59] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:24:59] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:24:59] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:24:59] Handle data type: loaded
+[18:25:31] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:25:31] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:25:31] Parse fls file.
+[18:25:31] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.fls
+[18:25:31] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:25:31] BUILD command invoked.
+[18:25:31] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:25:31] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:25:31] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:25:31] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:25:31] LaTeX build process spawned. PID: 605830.
+[18:25:32] LaTeX log parsed with 4 messages.
+[18:25:32] Recipe of length 1 finished. PID: 605830.
+[18:25:32] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:25:32] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:25:32] Parse fls file.
+[18:25:32] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:25:32] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:25:32] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:25:32] Handle data type: loaded
+[18:26:01] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:26:01] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:26:05] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem3.tex
+[18:26:05] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem3.tex
+[18:26:05] Parse fls file.
+[18:26:05] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem3.fls
+[18:26:05] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem3.tex
+[18:26:05] BUILD command invoked.
+[18:26:05] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:26:05] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:26:05] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:26:05] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:26:05] LaTeX build process spawned. PID: 606506.
+[18:26:06] LaTeX log parsed with 4 messages.
+[18:26:06] Recipe of length 1 finished. PID: 606506.
+[18:26:06] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:26:06] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:26:06] Parse fls file.
+[18:26:06] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:26:06] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:26:06] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:26:06] Handle data type: loaded
+[18:26:07] CLEAN command invoked.
+[18:26:07] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:26:07] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:26:07] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:26:07] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.log
+[18:26:07] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fdb_latexmk
+[18:27:43] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:29:22] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:29:22] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:29:22] Parse fls file.
+[18:29:22] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.fls
+[18:29:22] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:29:22] BUILD command invoked.
+[18:29:22] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:29:22] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:29:22] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:29:22] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:29:22] LaTeX build process spawned. PID: 610844.
+[18:29:23] LaTeX log parsed with 4 messages.
+[18:29:23] Recipe of length 1 finished. PID: 610844.
+[18:29:23] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:29:23] Refresh PDF viewer for /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:29:23] Parse fls file.
+[18:29:23] Fls file found: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:29:23] Parse aux file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:29:23] Preview PDF file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.pdf
+[18:29:23] Handle data type: loaded
+[18:29:29] File watcher - file changed: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:29:29] Parsing a file and its subfiles: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:29:29] Parse fls file.
+[18:29:29] Cannot find fls file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.fls
+[18:29:29] Auto build started detecting the change of a file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/tex/problem2.tex
+[18:29:29] BUILD command invoked.
+[18:29:29] Building root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:29:29] Build root file /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex
+[18:29:29] Recipe step 1: latexmk, --shell-escape,-synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9
+[18:29:29] cwd: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9
+[18:29:29] LaTeX build process spawned. PID: 610989.
+[18:29:29] Recipe of length 1 finished. PID: 610989.
+[18:29:29] Successfully built /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:29:31] CLEAN command invoked.
+[18:29:31] Keep using the same root file: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.tex.
+[18:29:31] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.aux
+[18:29:31] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fls
+[18:29:31] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.fdb_latexmk
+[18:29:31] File cleaned: /home/jast/Documents/Uni/Vorlesungen/Semester4/ss20theo2/Abgaben/Blatt9/Blatt9/TI_Blatt9.log
