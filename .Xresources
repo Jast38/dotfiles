@@ -1,0 +1,25 @@
+!URxvt.font: xft:Inconsolata-g\ for\ Powerline-g:pixelsize=16:minizize=false
+!URxvt.font: xft:DejaVu Sans Mono:pixelsize=14,xft:Inconsolata-g\ for\ Powerline-g:pixelsize:14, xft:Monospace\ Regular:pixelsize=14, xft:DejaVu Sans Mono for Powerline:pixelsize = 14
+URxvt.scrollBar: false
+URxvt.letterSpace:-1
+
+!Transparency
+
+!URxvt*inheritPixmap: true
+!URxvt*borderless: 1
+!URxvt*transparent: true
+!URxvt*shading: 10
+!0 to 99 darkens, 101 to 200 lightens
+
+!Colors
+URxvt*background:#32302f
+Xft.dpi:        96
+Xft.antialias:  true
+Xft.rgba:       rgb
+Xft.hinting:    true
+Xft.hintstyle:  hintslight
+Xft.autohint:   true
+Xft.lcdfilter:  lcddefault
+
+.font: Monospace:pixelsiz=10;DejaVu Sans Mono:pixelsize=14;Inconsolata-g for Powerline-g:pixelsize:14;Monospace Regular:pixelsize=14; DejaVu Sans Mono for Powerline:pixelsize = 14;
+
