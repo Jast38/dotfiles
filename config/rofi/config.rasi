@@ -1,0 +1,14 @@
+configuration {
+	width: 25;
+	lines: 8;
+	font: "System San Francisco 15";
+	location: 0;
+	padding: 50;
+	sidebar-mode: false;
+	hide-scrollbar: true;
+	fullscreen: false;
+	color-normal: "#1d2120, #ebdbb2, #1d2120, #458588, #1d2120";
+	color-urgent: "#1d2120, #69584E, #1d2120, #69584E, #ebdbb2";
+	color-active: "#1d2120, #ebdbb2, #1d2120, #458588, #1d2120";
+	color-window: "#1d2120, #1d2120, #458588";
+}
