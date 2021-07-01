@@ -1,7 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/home/jast/.config'
-let g:netrw_dirhist_2='/home/jast'
-let g:netrw_dirhist_3='/home/jast/.vim'
-let g:netrw_dirhist_4='/home/jast/Documents/gitlab/pse_projekt/PSE2/.git'
-let g:netrw_dirhist_5='/home/jast/Documents/gitlab/pse_projekt/.git'

@@ -1,6 +1,0 @@
-[Default Applications]
-x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
-x-scheme-handler/discord-472164236332630018=discord-472164236332630018.desktop
-
-[Added Associations]
-application/pdf=org.pwmt.zathura-pdf-poppler.desktop;firefox.desktop;

@@ -1,8 +1,0 @@
-[Unit]
-Description= NTPD Script
-
-[Service]
-ExecStart=/usr/bin/ntpd-script
-
-[Install]
-WantedBy=default.target

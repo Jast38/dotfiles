@@ -1,2 +1,0 @@
-[General]
-commands="@ByteArray({\"_09afa3bc_28c5_4e6b_84de_935cdaee9689_\":{\"command\":\"systemctl suspend\",\"name\":\"Suspend\"},\"_fd674267_5579_4899_a804_0abf3f7084ef_\":{\"command\":\"sh /home/jast/.config/i3/togglelock.sh\",\"name\":\"Lock Screen\"}})"

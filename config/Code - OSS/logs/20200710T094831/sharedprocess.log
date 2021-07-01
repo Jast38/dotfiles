@@ -1,8 +1,0 @@
-[2020-07-10 09:48:34.708] [sharedprocess] [info] main {"machineId":"5ddfb5290b8242505cf1942e671dab8d77c31100df702bbd055cbc6c4f78191c","windowId":2}
-[2020-07-10 09:48:36.360] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
-[2020-07-10 09:48:36.782] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme /tmp/48e032c0-bbe4-4b4c-a31d-b1c58715d0de
-[2020-07-10 09:48:36.909] [sharedprocess] [info] Extracted extension to /home/jast/.vscode-oss/extensions/.zhuangtongfa.material-theme-3.8.3: zhuangtongfa.material-theme
-[2020-07-10 09:48:36.909] [sharedprocess] [info] Renamed to /home/jast/.vscode-oss/extensions/zhuangtongfa.material-theme-3.8.3
-[2020-07-10 09:48:36.909] [sharedprocess] [info] Installation completed. zhuangtongfa.material-theme
-[2020-07-10 09:48:36.918] [sharedprocess] [info] Extensions installed successfully: zhuangtongfa.material-theme
-[2020-07-10 09:49:14.723] [sharedprocess] [info] Starting to clean up unused language packs.
