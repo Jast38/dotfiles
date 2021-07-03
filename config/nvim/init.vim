@@ -29,13 +29,12 @@
 		Plugin 'vim-airline/vim-airline'
 		Plugin 'vim-airline/vim-airline-themes'
 		Plugin 'morhetz/gruvbox'
-		Plugin 'sheerun/vim-polyglot'
+		"Plugin 'sheerun/vim-polyglot'
 		"Plugin 'scrooloose/nerdtree'
 		"Plugin 'tiagofumo/vim-nerdtree-syntax-highlight'
 		"Plugin 'Xuyuanp/nerdtree-git-plugin'
         Plugin 'xuhdev/vim-latex-live-preview'
        	Plugin 'SirVer/ultisnips'
-       	Plugin 'honza/vim-snippets'
        	Plugin 'mg979/vim-xtabline'
         Plugin 'mboughaba/i3config.vim'
         Plugin 'iamcco/markdown-preview.nvim'
@@ -161,6 +160,10 @@
     noremap <C-l> 5l
     " copy to system clipboard
     noremap <C-c> "+y e
-
+    "coc
+    nmap <leader>gd <Plug>(coc-definition)
+    nmap <leader>gr <Plug>(coc-references)
+    let g:coc_user_config = {}
+    let g:coc_user_config['coc.preferences.jumpCommand'] = 'vsp'
     "navigate splits
-    noremap == <C-w><C-w>
+    noremap = <C-w><C-w>

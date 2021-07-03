@@ -5,6 +5,7 @@ ZSH_THEME="afowler"
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
+set -o vi
 
 # User configuration
 
@@ -59,6 +60,7 @@ alias wetter="curl wttr.in"
 export PATH="/opt/:$PATH"
 export PATH="/home/jast/.local/bin:$PATH"
 export LC_CTYPE=en_US.UTF-8 Example aliases
+export JAVA_HOME="/usr/lib/jvm/default"
 
 #base16shell
 BASE16_SHELL="$HOME/.config/base16-shell/"
