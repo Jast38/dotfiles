@@ -30,7 +30,7 @@ source $ZSH/oh-my-zsh.sh
 #
 #Aliases
 
-alias v="nvim -S ~/.vimrc"
+alias v="nvim"
 alias vi="sudo nvim"         
 alias h="history|less +G"    
 alias cd..="cd .."            
@@ -78,4 +78,4 @@ fi
 
 gnome-keyring-daemon -r -d &>/dev/null
 export SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
-
+bindkey -s ^f "tmux-sessionizer\n"
