@@ -1,0 +1,3 @@
+[submodule "ArchMatic"]
+	path = ArchMatic
+	url = git@github.com:johnynfulleffect/ArchMatic.git
