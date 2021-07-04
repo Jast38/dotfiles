@@ -48,6 +48,7 @@
         Plugin 'nvim-telescope/telescope.nvim'
         Plugin 'nvim-telescope/telescope-fzf-native.nvim'
         Plugin 'fannheyward/telescope-coc.nvim'
+        Plugin 'jiangmiao/auto-pairs'
 
 	call vundle#end()
 "End of vundle part
@@ -135,37 +136,6 @@
 
 "rainbow brackets
     let g:rainbow_active = 1
-
-" Telesope fuzzy finder
-    nnoremap <leader>ff :lua require'jast.telescope'.find_files(require('telescope.themes').get_dropdown({}))<cr>
-    nnoremap <leader>fg :lua require'telescope.builtin'.live_grep(require('telescope.themes').get_dropdown({}))<cr>
-    nnoremap <leader>fb :lua require'telescope.builtin'.buffers(require('telescope.themes').get_dropdown({}))<cr>
-
-    nnoremap <C-n> :lua require'jast.telescope'.file_browser(require('telescope.themes').get_dropdown({}))<cr>
-    nnoremap <C-m> :lua require'telescope.builtin'.file_browser(require('telescope.themes').get_dropdown({}))<cr>
-    "Git commands
-    nnoremap <leader>g :lua require'telescope.builtin'.git_status(require('telescope.themes').get_dropdown({}))<cr>
-    nnoremap <leader>gc :lua require'telescope.builtin'.git_commits(require('telescope.themes').get_dropdown({}))<cr>
-    " own functions
-    nnoremap <leader>gb :lua require'jast.telescope'.git_branches(require('telescope.themes').get_dropdown({}))<cr>
-    nnoremap <leader>vrc :lua require'jast.telescope'.search_dotfiles(require('telescope.themes').get_dropdown({}))<cr>
-
-"custom keybinds
-    noremap <C-k> 5k
-    noremap <C-j> 5j
-    noremap <C-h> 5h
-    noremap <C-l> 5l
-    " copy to system clipboard
-    noremap <C-c> "+y e
-    "coc
-    nmap <leader>gd <Plug>(coc-definition)
-    nmap <leader>gr <Plug>(coc-references)
-    let g:coc_user_config = {}
-    let g:coc_user_config['coc.preferences.jumpCommand'] = 'vsp'
-    "navigate splits
-    noremap = <C-w><C-w>
-    nnoremap <leader><CR> :source ~/.config/nvim/init.vim<CR>
-    nnoremap <C-p> :MarkdownPreview
 
 "****************************************************
 "Markdown Preview Recommended Settings
@@ -260,4 +230,38 @@
     " recognized filetypes
     " these filetypes will have MarkdownPreview... commands
     let g:mkdp_filetypes = ['markdown']
+
+" Telesope fuzzy finder
+    nnoremap <leader>ff :lua require'jast.telescope'.find_files(require('telescope.themes').get_dropdown({}))<cr>
+    nnoremap <leader>fg :lua require'telescope.builtin'.live_grep(require('telescope.themes').get_dropdown({}))<cr>
+    nnoremap <leader>fb :lua require'telescope.builtin'.buffers(require('telescope.themes').get_dropdown({}))<cr>
+
+    nnoremap <C-n> :lua require'jast.telescope'.file_browser(require('telescope.themes').get_dropdown({}))<cr>
+    nnoremap <C-m> :lua require'telescope.builtin'.file_browser(require('telescope.themes').get_dropdown({}))<cr>
+    "Git commands
+    nnoremap <leader>g :lua require'telescope.builtin'.git_status(require('telescope.themes').get_dropdown({}))<cr>
+    nnoremap <leader>gc :lua require'telescope.builtin'.git_commits(require('telescope.themes').get_dropdown({}))<cr>
+    " own functions
+    nnoremap <leader>gb :lua require'jast.telescope'.git_branches(require('telescope.themes').get_dropdown({}))<cr>
+    nnoremap <leader>vrc :lua require'jast.telescope'.search_dotfiles(require('telescope.themes').get_dropdown({}))<cr>
+
+"custom keybinds
+    noremap <C-k> 5k
+    noremap <C-j> 5j
+    noremap <C-h> 5h
+    noremap <C-l> 5l
+    " copy to system clipboard
+    noremap <C-c> "+y e
+    "coc
+    nmap <leader>gd <Plug>(coc-definition)
+    nmap <leader>gr <Plug>(coc-references)
+    let g:coc_user_config = {}
+    let g:coc_user_config['coc.preferences.jumpCommand'] = 'vsp'
+    "navigate splits
+    noremap = <C-w><C-w>
+    nnoremap <leader><CR> :source ~/.config/nvim/init.vim<CR>
+    nnoremap <C-p> :MarkdownPreview <cr>
+    nnoremap <C-P> :MarkdownPreview <cr>
+
+
 
